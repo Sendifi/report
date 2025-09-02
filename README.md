@@ -8,9 +8,9 @@
 
 **Aplicaciones Web**
 
-**Sección:** 
+**Sección:** 7420
 
-**Profesor:** 
+**Profesor:** Alex Humberto Sanchez
 
 **Nombre del StartUp:** SendiFi
 
