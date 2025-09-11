@@ -17,7 +17,7 @@ En esta sección se detallan todas las reglas y procesos que hemos seguido en el
 
 | Herramienta | Descripción | Enlace |
 |-------------|-------------|--------|
-| Trello | Gestión de historias de usuario y backlog | [link] |
+| Trello | Gestión de historias de usuario y backlog | [Trello de Horizon](https://trello.com/invite/b/68c250e407e28b9a3a373584/ATTI967ab2fc25ebb6590ace824fbeac217c11038364/sprint-1-sendify) |
 
 **Product UX/UI Design**  
 - Se utilizó **Figma** para crear wireframes, mockups y prototipos interactivos.  
