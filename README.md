@@ -123,15 +123,14 @@ Repositorios creados:
 
 | User Story ID | User Story | Task | Descripción | Estimación (hrs) | Estado |
 |---------------|------------|------|-------------|------------------|--------|
-| US001 | Ver secciones principales | Navbar | Navegación entre Home, Funcionalidades, Planes, Contacto | 3 | Done |
-| US002 | Ver diseño atractivo | Estilizar landing | Colores corporativos y tipografía | 4 | Done |
-| US003 | Explorar funcionalidades | Sección servicios | Mostrar Gestión de envíos, Tracking, Flota | 3 | Done |
-| US004 | Comparar planes | Pricing | Tarjetas Starter, Pro, Enterprise | 3 | Done |
-| US005 | Validar confianza | Testimonios | Sección de usuarios satisfechos | 3 | Done |
-| US006 | Contactar equipo | Formulario | Nombre, correo, mensaje | 4 | Done |
-| US007 | Información final | Footer | Redes sociales y contacto | 2 | Done |  
+| US001 | Como administrador quiero visualizar un panel de control | Diseño de Dashboard principal (UI) | Creación del dashboard inicial con componentes básicos de estadísticas y navegación | 6 | Done |
+| US002 | Como administrador quiero registrar envíos con facilidad | Módulo de creación de envíos (formulario + tracking) | Formulario de creación de envíos con generación de tracking automático | 8 | Done |
+| US003 | Como administrador quiero consultar envíos anteriores | Panel de historial de envíos (filtros + búsqueda) | Listado de envíos con buscador y filtros básicos | 6 | Done |
+| US004 | Como administrador quiero gestionar cobros y facturación | Sección de pagos y facturación automática | Módulo para registrar pagos y generar facturación | 7 | Done |
+| US005 | Como administrador quiero ver métricas de desempeño | Reportes básicos y métricas (gráficas simples) | Gráficas de envíos realizados y entregados | 5 | Done |
+| US006 | Como miembro del equipo quiero reportar avances | Elaboración de reporte (informe escrito) | Redacción del informe del sprint en base al desarrollo realizado | 4 | Done |
 
-[Adjuntar captura de Sprint Backlog en Trello o GitHub Projects]  
+<img width="1280" height="560" alt="image" src="https://github.com/user-attachments/assets/4343da44-af37-4bd7-b008-243b0272da6f" />
 
 ---
 
