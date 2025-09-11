@@ -26,7 +26,6 @@ En esta sección se detallan todas las reglas y procesos que hemos seguido en el
 |-------------|-------------|--------|
 | Figma | Diseño de prototipos y wireframes |[ https://www.figma.com/](https://www.figma.com/design/0oUXL2sqZUIG8uwiDkxrMn/Sin-t%C3%ADtulo?node-id=0-1&t=gW8H8IxDdlPFsqng-1) |  
 
-[Adjuntar capturas de Figma: wireframe y mockup de la landing]  
 
 **Software Development**  
 - **Frontend:** HTML, CSS y JavaScript para la Landing Page.  
@@ -40,7 +39,7 @@ En esta sección se detallan todas las reglas y procesos que hemos seguido en el
 **Software Deployment**  
 - La landing page fue desplegada en **GitHub Pages**.  
 
-[Adjuntar captura de la configuración de GitHub Pages]  
+<img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/834f7821-e50d-4818-8e96-f95e999535da" />
 
 ---
 
@@ -50,10 +49,10 @@ Repositorios creados:
 
 | Producto     | Repositorio        | URL |
 |--------------|-------------------|-----|
-| Reporte      | Sendify-Report     | https://github.com/Sendifi/report.git |
-| Landing Page | Sendify-Landing    | https://github.com/Sendifi/LandingPage.git |  
+| Reporte      | Report     | https://github.com/Sendifi/report.git |
+| Landing Page | LandingPage    | https://github.com/Sendifi/LandingPage.git |  
 
-[Adjuntar captura de la organización y repositorios en GitHub]  
+<img width="1207" height="387" alt="Image" src="https://github.com/user-attachments/assets/785ec03c-de3d-4f3e-abb0-3e130802cd55" />
 
 ---
 
@@ -132,7 +131,7 @@ Repositorios creados:
 | US006 | Contactar equipo | Formulario | Nombre, correo, mensaje | 4 | Done |
 | US007 | Información final | Footer | Redes sociales y contacto | 2 | Done |  
 
-[Adjuntar captura de Sprint Backlog en Pivotal Tracker o GitHub Projects]  
+[Adjuntar captura de Sprint Backlog en Trello o GitHub Projects]  
 
 ---
 
