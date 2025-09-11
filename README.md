@@ -8,7 +8,7 @@ En esta sección se detallan todas las reglas y procesos que hemos seguido en el
 
 **Project Management**  
 - Centro de organización del trabajo: **GitHub**  
-- Planificación de tareas: **Pivotal Tracker**  
+- Planificación de tareas: **PONER HERRAMIENTA DE TRAKER**  
 - Reuniones con el equipo: **Google Meet**  
 - Comunicación grupal: **WhatsApp**  
 
@@ -17,7 +17,7 @@ En esta sección se detallan todas las reglas y procesos que hemos seguido en el
 
 | Herramienta | Descripción | Enlace |
 |-------------|-------------|--------|
-| Pivotal Tracker | Gestión de historias de usuario y backlog | https://www.pivotaltracker.com/ |
+| [herraminta para trakear] | Gestión de historias de usuario y backlog | [link] |
 
 **Product UX/UI Design**  
 - Se utilizó **Figma** para crear wireframes, mockups y prototipos interactivos.  
@@ -30,7 +30,6 @@ En esta sección se detallan todas las reglas y procesos que hemos seguido en el
 
 **Software Development**  
 - **Frontend:** HTML, CSS y JavaScript para la Landing Page.  
-- **Backend (futuro):** Node.js + Express.  
 
 | Herramienta | Descripción | Enlace |
 |-------------|-------------|--------|
@@ -143,13 +142,13 @@ Commits y merges destacados en el repositorio **LandingPage**:
 
 | Branch | Commit/PR | Mensaje | Estado | Deploy | Responsable |
 |--------|-----------|---------|--------|--------|-------------|
-| feature → develop | PR #2 | Merge pull request #2 from Sendifi/feature | ✅ Deployed | GitHub Pages (#17) | Maximoff19 |
-| feature → develop | PR #1 | Merge pull request #1 from Sendifi/feature | ✅ Deployed | GitHub Pages (#16) | Maximoff19 |
-| main | commit | docs: Add the LandingPage link | ✅ Deployed | GitHub Pages (#15) | Maximoff19 |
-| develop | commit | feat: add initial version of landing page | ✅ Deployed | GitHub Pages (#14) | Maximoff19 |
-| main | commit | chore(assets): remove Logo header.png.png | ✅ Deployed | GitHub Pages (#13) | Maximoff19 |
-| main | commit | chore(assets): remove LANDINGPAGE-SENDIFY.png | ❌ Failed | GitHub Pages (#12) | Maximoff19 |
-| main | commit | chore(assets): remove IMAGEN HERO.png | ✅ Deployed | GitHub Pages (#11) | Maximoff19 |
+| feature → develop | PR #2 | Merge pull request #2 from Sendifi/feature |  Deployed | GitHub Pages (#17) | Pietro Osores |
+| feature → develop | PR #1 | Merge pull request #1 from Sendifi/feature |  Deployed | GitHub Pages (#16) | Pietro Osores |
+| main | commit | docs: Add the LandingPage link |  Deployed | GitHub Pages (#15) | Pietro Osores |
+| develop | commit | feat: add initial version of landing page |  Deployed | GitHub Pages (#14) | Pietro Osores |
+| main | commit | chore(assets): remove Logo header.png.png |  Deployed | GitHub Pages (#13) | Pietro Osores |
+| main | commit | chore(assets): remove LANDINGPAGE-SENDIFY.png |  Failed | GitHub Pages (#12) | Pietro Osores |
+| main | commit | chore(assets): remove IMAGEN HERO.png |  Deployed | GitHub Pages (#11) | Pietro Osores |
 
 [Adjuntar captura de historial de commits en GitHub]  
 
@@ -164,7 +163,7 @@ Se ejecutaron pruebas **manuales**:
 - Visualización en distintos dispositivos (desktop, tablet, móvil).  
 - Funcionamiento de enlaces y botones principales.  
 
-📌 Las pruebas automáticas se implementarán en siguientes sprints junto al backend.  
+ >  Las pruebas automáticas se implementarán en siguientes sprints junto al backend.  
 
 ---
 
