@@ -8,7 +8,7 @@ En esta sección se detallan todas las reglas y procesos que hemos seguido en el
 
 **Project Management**  
 - Centro de organización del trabajo: **GitHub**  
-- Planificación de tareas: **PONER HERRAMIENTA DE TRAKER**  
+- Planificación de tareas: **Trello**  
 - Reuniones con el equipo: **Google Meet**  
 - Comunicación grupal: **WhatsApp**  
 
@@ -17,7 +17,7 @@ En esta sección se detallan todas las reglas y procesos que hemos seguido en el
 
 | Herramienta | Descripción | Enlace |
 |-------------|-------------|--------|
-| [herraminta para trakear] | Gestión de historias de usuario y backlog | [link] |
+| Trello | Gestión de historias de usuario y backlog | [link] |
 
 **Product UX/UI Design**  
 - Se utilizó **Figma** para crear wireframes, mockups y prototipos interactivos.  
@@ -79,11 +79,11 @@ Repositorios creados:
 
 **Landing Page en GitHub Pages**  
 - Archivos subidos al repositorio `LandingPage`.  
-- Configuración de GitHub Pages en rama `main`.  
+- Configuración de GitHub Pages en rama `Develop`.  
 - Despliegue activo en:  
 🔗 https://sendifi.github.io/LandingPage/  
 
-[Adjuntar captura del sitio en línea funcionando]  
+<img width="1309" height="760" alt="Image" src="https://github.com/user-attachments/assets/f702014c-85a9-4a1a-a53f-7c63384aa263" />
 
 ---
 
@@ -174,13 +174,26 @@ La landing está desplegada en:
 
 Incluye:  
 1. Hero con slogan: “Tu logística, más simple y digital”.  
-2. Sección de funcionalidades principales.  
-3. Planes de suscripción (Starter, Pro, Enterprise).  
+2. Sección de funcionalidades principales.
+3. Video del demo
 4. Testimonios de clientes.  
-5. Formulario de contacto.  
-6. Footer con redes sociales y contacto.  
+5. Equipo de horizon
+6. Planes de suscripción (Starter, Pro, Enterprise).  
+7. Footer con el logo y menu.
 
-[Adjuntar capturas de cada sección de la landing desplegada]  
+<img width="1131" height="733" alt="Image" src="https://github.com/user-attachments/assets/ee3f1fd6-ffaa-4320-961f-f381541e1450" />
+
+<img width="1126" height="732" alt="Image" src="https://github.com/user-attachments/assets/d4da6320-24b6-4b3a-bcf7-6567c6befac0" />
+
+<img width="1135" height="733" alt="Image" src="https://github.com/user-attachments/assets/8bedd0fb-3a73-4295-8afc-da68ab170184" />
+
+<img width="1137" height="739" alt="Image" src="https://github.com/user-attachments/assets/b2911676-b3a6-4007-82e5-eb14f0d549c1" />
+
+<img width="1132" height="733" alt="Image" src="https://github.com/user-attachments/assets/dfeaf50d-a09f-466d-826e-14a6f4fa784b" />
+
+<img width="1264" height="829" alt="Image" src="https://github.com/user-attachments/assets/657b5712-40da-4315-924c-5a2bbadacbe6" />
+
+<img width="1259" height="224" alt="image" src="https://github.com/user-attachments/assets/b59073b5-0cbf-4bc0-9def-0d44c55e6713" />
 
 ---
 
@@ -198,8 +211,8 @@ No se integraron servicios externos en este sprint. Todo fue **frontend** (HTML,
   - Landing: https://github.com/Sendifi/LandingPage.git  
 - Deploy activo en GitHub Pages: https://sendifi.github.io/LandingPage/  
 
-[Adjuntar captura del deployment exitoso en GitHub Pages]  
-
+<img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/873f73d0-c004-49da-9e52-b0d24b1b58b3" />
+<img width="1015" height="466" alt="Image" src="https://github.com/user-attachments/assets/1672da8a-9c3d-4eb5-aa68-24d51efe65e4" />
 ---
 
 #### 5.2.1.9. Team Collaboration Insights during Sprint
