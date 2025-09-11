@@ -24,7 +24,7 @@ En esta sección se detallan todas las reglas y procesos que hemos seguido en el
 
 | Herramienta | Descripción | Enlace |
 |-------------|-------------|--------|
-| Figma | Diseño de prototipos y wireframes | https://www.figma.com/ |  
+| Figma | Diseño de prototipos y wireframes |[ https://www.figma.com/](https://www.figma.com/design/0oUXL2sqZUIG8uwiDkxrMn/Sin-t%C3%ADtulo?node-id=0-1&t=gW8H8IxDdlPFsqng-1) |  
 
 [Adjuntar capturas de Figma: wireframe y mockup de la landing]  
 
