@@ -217,7 +217,9 @@ No se integraron servicios externos en este sprint. Todo fue **frontend** (HTML,
 
 - 2 reuniones en Google Meet (inicio y cierre).  
 - Comunicación continua en WhatsApp.  
-- Uso de GitHub Projects para seguimiento.  
+- Uso de GitHub Projects para seguimiento.
+  <img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/b99e92b2-4f70-47c5-8292-2f117068e7f5" />
+
 - Aprendizajes: registrar avances diarios con más frecuencia y documentar commits detallados.  
 
 [Adjuntar captura de chat grupal o reunión de sprint review]  
