@@ -33,6 +33,7 @@
 | 1ra     | --/--/-- | --------------------- | TB1: Se realizo los capitulos 1, 2, 3, 4 y el primer sprint del capitulo 5 |
 
 </div>
+
 ## **CAPITULO 4**
 
 ## **4.1. Style Guidelines**
@@ -57,36 +58,31 @@ tecnológica de la
 marca.![](media/image3.png){width="1.3958333333333333in"
 height="1.3645833333333333in"}
 
-**Tipografía:**
+### Tipografía  
 
-La tipografía de Sendify debe garantizar **claridad, modernidad y
-legibilidad**, especialmente en dispositivos móviles y dashboards web.
+La tipografía de *Sendify* debe garantizar *claridad, modernidad y legibilidad, especialmente en dispositivos móviles y *dashboards web.  
 
-  -----------------------------------------------------------------------
-  Elemento UI             Tipografía elegida      Tamaño
-  ----------------------- ----------------------- -----------------------
-  Nombre de la app        Montserrat Bold         23 px
-
-  Título principal                                29 px
-
-  Subtítulo                                       17 px
-
-  Cuerpo de texto         Montserrat Bold         15 px
-
-  Menú                                            15 px
-
-  Botones                                         15 px
-  -----------------------------------------------------------------------
+| Elemento UI       | Tipografía elegida | Tamaño |
+|-------------------|--------------------|--------|
+| Nombre de la app  | Montserrat Bold    | 23 px |
+| Título principal  | Montserrat Bold    | 29 px |
+| Subtítulo         | Montserrat Bold    | 17 px |
+| Cuerpo de texto   | Montserrat Bold    | 15 px |
+| Menú              | Montserrat Bold    | 15 px |
+| Botones           | Montserrat Bold    | 15 px |
+  
 
 Cada tipo y tamaño de tipografía se ajustó de acuerdo a lo señalado por
 el Gobierno del Perú (2021a) en sus indicaciones de tamaño de letra para
 apps de escritorio y móviles
 
-**Figura 7**
 
-*Colours**. PALETA FOTO***
+**PALETA DE COLORES***
 
-*Nota*. Elaboración propia. agrego link
+![2](https://github.com/user-attachments/assets/b0fcace7-b643-485c-b2db-c31dfebe5782)
+
+
+*Nota*. Elaboración propia. [agrego link](https://www.canva.com/design/DAGzZ8xAuW0/RIXBCF5lGOnOKQcTppZbWA/edit?utm_content=DAGzZ8xAuW0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 La paleta de colores de **Sendify** transmite **tecnología, dinamismo y
 confianza**. Se busca una experiencia visual clara, con colores que
@@ -111,34 +107,21 @@ Esta paleta se inspira en el mundo del transporte: **oscuridad como base
 sólida, acentos cálidos para dinamismo y colores funcionales para
 estados logísticos.**
 
-**Header**
+### Header  
 
-El header utiliza fondo **#111111** con tipografía en blanco y botones
-resaltados en naranja. En versiones móviles debe ser compacto, mientras
-que en pantallas grandes incluye menú expandido y barra de búsqueda de
-envíos.
+El *header* utiliza fondo #111111 con tipografía en blanco y botones resaltados en naranja.  
+En versiones móviles debe ser compacto, mientras que en pantallas grandes incluye menú expandido y barra de búsqueda de envíos.  
 
-  -----------------------------------------------------------------------
-  Dispositivo                         Resolución
-  ----------------------------------- -----------------------------------
-  Teléfonos Android / iOS modernos    **720 x 1280 px**
+| Dispositivo                   | Resolución     |
+|-------------------------------|----------------|
+| Teléfonos Android / iOS       | *720 × 1280 px* |
+| Apple Watch                   | *396 × 484 px* |
+| Google Nest Hub               | *1024 × 600 px* |
+| Android TV                    | *1920 × 1080 px* |
+| Laptops pequeñas              | *1366 × 768 px* |
+| Monitores estándar            | *1920 × 1080 px* |
 
-  Apple Watch                         **396 x 484 px**
-
-  Google Nest Hub                     **1024 x 600 px**
-
-  Android TV                          **1920 × 1080 px**
-
-  Laptops pequeñas                    **1366 × 768 px**
-
-  Monitores estándar                  **1920 × 1080 px**
-  -----------------------------------------------------------------------
-
-.
-
-Estas resoluciones fueron establecidas por los datos proporcionado por
-el Gobierno del Perú (2021c) para resoluciones en dispositivos
-inteligentes
+Estas resoluciones fueron establecidas por los datos proporcionados por el *Gobierno del Perú (2021c)* para resoluciones en dispositivos inteligentes.
 
 **Sección de destinos:**
 
@@ -359,42 +342,18 @@ Sendify integrará un sistema de navegación intuitivo y consistente:
 -   **Diseño responsive** para garantizar que la navegación sea fluida
     > en desktop, tablet y móvil.
 
-### ***4.2.2. Labeling Systems***
+### 4.2.2. Labeling Systems  
 
-  ------------------------------------------------------------------------------
-  **Tópico**            **Definición**
-  --------------------- --------------------------------------------------------
-  **Home**              Página principal de Sendify, donde se presenta el valor
-                        de la plataforma, con botones de acción como *Probar
-                        Demo* y *Registrarse Gratis*.
-
-  **Funcionalidades**   Sección que explica los módulos principales: Gestión de
-                        Envíos, Tracking Unificado, Cotización de Tarifas y
-                        Notificaciones Inteligentes.
-
-  **Beneficios**        Espacio donde se detallan las ventajas de usar Sendify:
-                        reducción de costos, ahorro de tiempo, mayor control y
-                        mejor experiencia para los clientes.
-
-  **Testimonios**       Apartado con comentarios y reseñas de usuarios que ya
-                        utilizan la plataforma.
-
-  **Equipo**            Sección que muestra a los integrantes detrás de Sendify,
-                        destacando su rol en el desarrollo y soporte de la
-                        aplicación.
-
-  **Precios**           Aquí se presentan los planes de suscripción,
-                        diferenciando la versión gratuita y los planes Pro,
-                        junto con sus beneficios.
-
-  **Contacto**          Sección destinada a brindar al usuario los canales de
-                        comunicación disponibles, como correo, WhatsApp o
-                        formulario directo.
-
-  **Dashboard**         Acceso directo al panel principal, donde los usuarios
-                        registrados gestionan envíos, consultan tracking y
-                        visualizan reportes.
-  ------------------------------------------------------------------------------
+| Tópico          | Definición |
+|-----------------|------------|
+| *Home*        | Página principal de *Sendify, donde se presenta el valor de la plataforma, con botones de acción como *Probar Demo y Registrarse Gratis. |
+| *Funcionalidades* | Sección que explica los módulos principales: Gestión de Envíos, Tracking Unificado, Cotización de Tarifas y Notificaciones Inteligentes. |
+| *Beneficios*  | Espacio donde se detallan las ventajas de usar *Sendify*: reducción de costos, ahorro de tiempo, mayor control y mejor experiencia para los clientes. |
+| *Testimonios* | Apartado con comentarios y reseñas de usuarios que ya utilizan la plataforma. |
+| *Equipo*      | Sección que muestra a los integrantes detrás de *Sendify*, destacando su rol en el desarrollo y soporte de la aplicación. |
+| *Precios*     | Aquí se presentan los planes de suscripción, diferenciando la versión gratuita y los planes Pro, junto con sus beneficios. |
+| *Contacto*    | Sección destinada a brindar al usuario los canales de comunicación disponibles, como correo, WhatsApp o formulario directo. |
+| *Dashboard*   | Acceso directo al panel principal, donde los usuarios registrados gestionan envíos, consultan tracking y visualizan reportes. |
 
 4.3.Landing Page UI Design.
 
@@ -404,37 +363,26 @@ de los usuarios con nuestro producto. Será la oportunidad de ofrecer una
 experiencia atractiva y práctica, capaz de captar la atención de los
 visitantes y motivarlos a seguir explorando.
 
-4.3.1.Landing Page Wireframe
+### 4.3.1.Landing Page Wireframe
 
-.![](media/image6.png){width="6.267716535433071in"
-height="3.638888888888889in"}
+<img width="840" height="494" alt="1" src="https://github.com/user-attachments/assets/e513bfe6-d09d-4996-be72-2cae8197c6c2" />
+<img width="841" height="517" alt="2" src="https://github.com/user-attachments/assets/3f41a74e-ccb0-4f6f-b706-f74cd68b0296" />
+<img width="838" height="708" alt="3" src="https://github.com/user-attachments/assets/a05b9fcc-a622-4506-b6f2-e774b09dd1cb" />
+<img width="845" height="450" alt="4" src="https://github.com/user-attachments/assets/137caf78-a777-4517-bb63-912a6eb37557" />
+<img width="842" height="354" alt="5" src="https://github.com/user-attachments/assets/5ad95324-41bf-419a-b78e-c2957096a00f" />
+<img width="848" height="720" alt="6" src="https://github.com/user-attachments/assets/bf9ad9d1-3572-4785-b981-758172c3942f" />
 
-![](media/image1.png){width="6.267716535433071in"
-height="3.5277777777777777in"}
+### 4.3.2.Landing Page Mock-up.
+<img width="442" height="254" alt="1" src="https://github.com/user-attachments/assets/c22b2ae4-7633-44e2-98d9-837dde20d1ba" />
+<img width="439" height="238" alt="2" src="https://github.com/user-attachments/assets/67588119-6060-4bfc-9f7b-1fdd33fec916" />
+<img width="440" height="274" alt="3" src="https://github.com/user-attachments/assets/8affeb61-6e1b-4647-970e-a9fdd226e2b9" />
+<img width="437" height="212" alt="4" src="https://github.com/user-attachments/assets/2e023d69-8952-4998-8273-257611b3a02d" />
+<img width="444" height="208" alt="5" src="https://github.com/user-attachments/assets/67e482c2-376f-4d6b-8f36-543bf03ed672" />
+<img width="445" height="250" alt="6" src="https://github.com/user-attachments/assets/8f5fd713-a612-4515-af03-388e6e62cab5" />
 
-![](media/image5.png){width="6.267716535433071in"
-height="4.527777777777778in"}
 
-![](media/image11.png){width="6.267716535433071in"
-height="3.236111111111111in"}
 
-![](media/image4.png){width="6.267716535433071in"
-height="6.222222222222222in"}
-
-![](media/image2.png){width="6.267716535433071in"
-height="1.8333333333333333in"}
-
-4.3.2.Landing Page Mock-up.
-
-![](media/image7.png){width="3.1875in"
-height="1.5625in"}![](media/image9.png){width="3.1875in"
-height="1.5416666666666667in"}![](media/image12.png){width="3.375in"
-height="1.4895833333333333in"}![](media/image14.png){width="3.375in"
-height="1.5416666666666667in"}![](media/image8.png){width="3.1875in"
-height="1.484375546806649in"}![](media/image10.png){width="3.375in"
-height="1.570754593175853in"}
-
-4.4.Web Applications UX/UI Design.
+## 4.4.Web Applications UX/UI Design.
 
 El diseño de experiencia de usuario (UX) y de interfaz de usuario (UI)
 en Sendify busca ofrecer una plataforma logística centralizada que sea
@@ -452,19 +400,16 @@ Este enfoque busca combinar estética y funcionalidad, logrando que la
 experiencia de uso de Sendify sea no solo eficiente, sino también
 agradable y memorable para los usuarios.
 
-4.4.1.Web Applications Wireframes.
+## 4.4.1.Web Applications Wireframes.
 
-![](media/image13.png){width="6.267716535433071in"
-height="4.152777777777778in"}
+<img width="1120" height="742" alt="1" src="https://github.com/user-attachments/assets/6c866104-ad90-41c8-bc12-d3ef6167641d" />
 
-4.4.2.Web Applications Wireflow Diagrams.
 
-4.4.2.
+## 4.4.2. Web Applications Wireflow Diagrams.
 
-Web Applications Mock-ups.
+## 4.4.2. Web Applications Mock-ups.
 
-4.4.3.
+## 4.4.3. Web Applications User Flow Diagrams.
 
-Web Applications User Flow Diagrams.
 
 
