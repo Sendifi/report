@@ -323,17 +323,39 @@ Equipo de 3 personas. Manejan ~120 envíos/mes, en campañas suben a ~250.
 
 ### 2.3.3. User Journey Mapping
 
+#### Segmento 1: Negocios pequeños con personal para realizar envíos
+
+<img width="822" height="619" alt="Image" src="https://github.com/user-attachments/assets/df5a0470-6523-4a35-99dc-6cebd8dac9d6" />
+
+#### Segmento 2: Emprendedor pequeño (e-commerce/redes sociales)
+
+<img width="876" height="670" alt="Image" src="https://github.com/user-attachments/assets/a5a30309-7ae3-4c98-a22e-02f514626865" />
 
 ### 2.3.4. Empathy Mapping
 
+#### Segmento 1: Negocios pequeños con personal para realizar envíos
+
+<img width="1050" height="1390" alt="Image" src="https://github.com/user-attachments/assets/8f00b4f4-d7d0-4195-a9f1-78eaae1d3535" />
+
+#### Segmento 2: Emprendedor pequeño (e-commerce/redes sociales)
+
+<img width="1050" height="1390" alt="Image" src="https://github.com/user-attachments/assets/64578c70-615a-47a8-a525-207379dcf91d" />
 
 ### 2.3.5. As-Is Scenario
 
+#### Segmento 1: Negocios pequeños con personal para realizar envíos
+
+<img width="602" height="261" alt="Image" src="https://github.com/user-attachments/assets/d6838014-4e88-403e-9e2b-4c5eb169d524" />
+
+#### Segmento 2: Emprendedor pequeño (e-commerce/redes sociales)
+
+<img width="602" height="261" alt="Image" src="https://github.com/user-attachments/assets/e4bd1096-fe5e-43fa-b727-fa45a024ccc7" />
 
 ---
 
 ## 2.4. Big Picture Event Storming
 
+<img width="907" height="548" alt="Image" src="https://github.com/user-attachments/assets/c90d1736-c9d8-41f3-b2c6-38eb2aad218d" />
 
 ---
 
