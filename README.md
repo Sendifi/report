@@ -35,5 +35,5 @@
 </div>
 4.4.1.Web Applications Wireframes.
 
-![](https://github.com/user-attachments/assets/cf8d3f44-a495-467b-b3b7-6ff0580de711){width="6.267716535433071in"
-height="4.152777777777778in"} 
+<img width="1120" height="742" alt="1" src="https://github.com/user-attachments/assets/1c5cbfe2-a97c-46e4-aadb-d78d5aad1da8" />
+
