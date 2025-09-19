@@ -33,3 +33,7 @@
 | 1ra     | --/--/-- | --------------------- | TB1: Se realizo los capitulos 1, 2, 3, 4 y el primer sprint del capitulo 5 |
 
 </div>
+4.4.1.Web Applications Wireframes.
+
+![](https://github.com/user-attachments/assets/cf8d3f44-a495-467b-b3b7-6ff0580de711){width="6.267716535433071in"
+height="4.152777777777778in"} 
