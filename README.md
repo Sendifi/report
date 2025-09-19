@@ -296,9 +296,30 @@ Equipo de 3 personas. Manejan ~120 envíos/mes, en campañas suben a ~250.
 
 ### 2.3.1. User Personas
 
+<img width="1050" height="1510" alt="Image" src="https://github.com/user-attachments/assets/0a566dfc-7186-4467-b9ef-bc220ad5ee0d" />
+
+---
+
+<img width="1050" height="1480" alt="Image" src="https://github.com/user-attachments/assets/36d9be3f-7b83-44ab-a24d-0387aed2d1cd" />
 
 ### 2.3.2. User Task Matrix
 
+| **Tarea**                                     | **Amanda Torres (Emprendedora Digital)**                                             | **José Ramírez (Dueño Local Comercial)**                                                      |
+| --------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| **Crear un envío**                            | **Often – High** → Maneja envíos constantes desde su tienda online y redes sociales. | **Often – High** → Sus ventas en local también generan despachos diarios.                     |
+| **Consultar estado de envío (tracking)**      | **Often – High** → Necesita mantener informados a sus clientes en línea.             | **Sometimes – High** → Lo revisa en casos de reclamos o retrasos puntuales.                   |
+| **Recibir notificaciones de entrega/retraso** | **Often – High** → Fundamental para anticipar problemas con clientes digitales.      | **Often – Medium** → Importante para coordinar con el repartidor y clientes presenciales.     |
+| **Comparar costos de envío entre couriers**   | **Often – High** → Busca optimizar costos, ya que trabaja con alta rotación.         | **Rarely – Medium** → Usa casi siempre a su propio repartidor, menos opciones externas.       |
+| **Generar reportes de costos/tiempos**        | **Sometimes – High** → Necesita métricas para optimizar logística digital.           | **Sometimes – Medium** → Le sirve más para control interno y gastos del local.                |
+| **Guardar clientes/direcciones frecuentes**   | **Often – High** → Repite envíos a clientes recurrentes o mayoristas online.         | **Sometimes – Medium** → Maneja principalmente clientes del barrio (menos repetición exacta). |
+| **Cotizar tarifas según destino/peso**        | **Often – High** → Sus envíos online son muy variables (peso, destino, zonas).       | **Sometimes – Medium** → Sus envíos suelen ser locales, menos variación de tarifas.           |
+
+---
+
+#### Diferencias clave:
+
+* **Amanda (digital)**: Vive de los envíos → prioridad en costos, métricas y eficiencia para sostener ventas online.
+* **José (local físico)**: Usa reparto propio → más enfocado en confiabilidad y control del proceso que en comparar tarifas.
 
 ### 2.3.3. User Journey Mapping
 
