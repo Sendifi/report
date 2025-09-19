@@ -19,7 +19,7 @@
 | Nombre                            | Código     |
 | --------------------------------- | ---------- |
 | Aguirre Eneque, Joan Elias        | U202313655 |
-| Esquirva León, Miguel Juan Diego      | U202019449 |
+| Esquirva León, Miguel Juan Diego      | U202310837 |
 | Osores Marchese, Pietro     | U202312391 |
 | Payesa Torres, Harrison Hubert | U202313397 |
 | Cossar Sanchez, Eduardo Jose      | U202312109 |
