@@ -105,7 +105,6 @@ Repositorios creados:
 | **Sprint 1 Velocity** | 18 |
 | **Sum of Story Points** | 18 |
 
-[Adjuntar captura de reunión de planning en Google Meet o Pivotal Tracker con historias de usuario]  
 
 ---
 
