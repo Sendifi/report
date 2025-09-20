@@ -13,7 +13,7 @@ En esta sección se detallan todas las reglas y procesos que hemos seguido en el
 - Comunicación grupal: **WhatsApp**  
 
 **Requirements Management**  
-- Se utilizó **Pivotal Tracker** para organizar user stories y backlog del proyecto.  
+- Se utilizó **Trello** para organizar user stories y backlog del proyecto.  
 
 | Herramienta | Descripción | Enlace |
 |-------------|-------------|--------|
@@ -222,4 +222,3 @@ No se integraron servicios externos en este sprint. Todo fue **frontend** (HTML,
 
 - Aprendizajes: registrar avances diarios con más frecuencia y documentar commits detallados.  
 
-[Adjuntar captura de chat grupal o reunión de sprint review]  
