@@ -1,4 +1,4 @@
-# Capítulo II: Requirements Elicitation & Analysis
+﻿# Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
 
@@ -121,8 +121,6 @@ Con base en el análisis comparativo realizado, **Sendifi** debe orientar sus es
 |-----------------------------|------------------------|--------------------------|
 | **Victor Niño Cornetero**   | [Entrevista (4:20 min)](https://drive.google.com/file/d/1yJC1CF0kROVJrOlpuANi3GaDDH3JHol1/view?usp=sharing) | <img width="365" height="161" alt="Image" src="https://github.com/user-attachments/assets/c0c7d08c-08dd-4d44-912b-42d1ec655a92" /> |
 | **David Eneque Valor**      | [Entrevista (4:50 min)](https://drive.google.com/file/d/1GRIb4vIA-_MpfAH9pROId28oskktAjY9/view?usp=sharing) | <img width="365" height="180" alt="Image" src="https://github.com/user-attachments/assets/95070b5f-11db-4e9d-b4d1-feae6a50ded6" /> |
-| **Brenda More**             | [Entrevista (7:33 min)](https://drive.google.com/file/d/1dP6VaB25O1R-BqN551P2MZg7VbBLzRZa/view?usp=sharing) | <img width="365" height="181" alt="Image" src="https://github.com/user-attachments/assets/40abe322-6ffc-4d58-b5d0-81cf6eb63e8e" /> |
-| **Paola Portocarrero**      | [Entrevista (6:05 min)](https://drive.google.com/file/d/1c7Fqx75UMCCFzPCsPkbpgPTh-neuSfTw/view?usp=sharing) | <img width="202" height="273" alt="Image" src="https://github.com/user-attachments/assets/99eba392-a398-4601-b8f2-6703ad3ab822" /> |
 | **Victoria Contreras**      | [Entrevista (6:01 min)](https://drive.google.com/file/d/12TYhjTKCtlAg5CSH9p3Ct0BNmyAPJg7P/view?usp=sharing) | <img width="365" height="180" alt="Image" src="https://github.com/user-attachments/assets/a411a44a-873c-4ac2-a1f2-beff3b8af7da" /> |
 | **Julieta Cardenas**        | [Entrevista (5:54 min)](https://drive.google.com/file/d/1DkZ8_qbXDpQHS9W13ArOvsaz2-FDKgAj/view?usp=sharing) | <img width="365" height="180" alt="Image" src="https://github.com/user-attachments/assets/7e98fee0-0670-4789-b51c-3aa9d7553c8f" /> |
 | **Maria Fernanda Mostajo**  | [Entrevista (5:37 min)](https://drive.google.com/file/d/1ZzjKkfk7kT41K4Oh7kThM_HA5E_MEUWD/view?usp=sharing) | <img width="365" height="161" alt="Image" src="https://github.com/user-attachments/assets/31bb4e86-c284-4d23-ab0b-e7ae1e0dd044" /> |
@@ -356,6 +354,9 @@ Equipo de 3 personas. Manejan ~120 envíos/mes, en campañas suben a ~250.
 ## 2.4. Big Picture Event Storming
 
 <img width="907" height="548" alt="Image" src="https://github.com/user-attachments/assets/c90d1736-c9d8-41f3-b2c6-38eb2aad218d" />
+
+Link del Miro: https://miro.com/welcomeonboard/SGJsWTllUnVQVXg5SHhlY1VFSzVMR1JhZ1VnazFPSFlXK0EwUzBsRzU4eU9sRmpiVnVFaXVYV1NvbkxvV2xkM3pmUy9mVlVQRHNsK2NERzFUc2dBeGFDaHJYZUxQOTl1V1Y4L0VkeWRGNUxTcllnZkdjMmdtZXNmNm9pM3BabEJzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=539854184167
+
 
 ---
 
