@@ -1,37 +1,4 @@
-﻿# Informe del Trabajo Final
-
-**Universidad Peruana de Ciencias Aplicadas**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
-
-**Ingeniería de software**
-
-**Aplicaciones Web**
-
-**Sección:** 7420
-
-**Profesor:** Alex Humberto Sanchez
-
-**Nombre del StartUp:** SendiFi
-
-**Nombre del Producto:** Horizon
-
-| Nombre                            | Código     |
-| --------------------------------- | ---------- |
-| Aguirre Eneque, Joan Elias        | U202315649 |
-| Esquirva León, Miguel Juan Diego      | U202310837 |
-| Osores Marchese, Pietro     | U202312391 |
-| Payesa Torres, Harrison Hubert | U202313397 |
-| Cossar Sanchez, Eduardo Jose      | U202312109 |
-
-**Ciclo 2025-02**
-
-# Registro de Versiones del Informe
-
-| Version | Fecha      | Autor                                          | Descripción de modificación                                                |
-| ------- | ---------- | ---------------------------------------------- | -------------------------------------------------------------------------- |
-| 1ra     | --/--/-- | --------------------- | TB1: Se realizo los capitulos 1, 2, 3, 4 y el primer sprint del capitulo 5 |
-
+﻿
 </div>
 
 ## **CAPITULO 4**
@@ -696,3 +663,116 @@ Support needed: <10%
 Los user flows están optimizados para maximizar conversión, reducir abandono y garantizar una experiencia fluida para cada tipo de usuario en sus tareas más críticas dentro de SENDIFY.
 
 
+### ***4.5. Web Applications Prototyping.***
+
+Link de figma: https://www.figma.com/design/JCyLEghztY7QwnrYHAJvRH/sendify?m=auto&t=CFiN4vMXvTHKRgd2-1
+
+
+### 4.6. Domain-Driven Software Architecture
+
+#### 4.6.1. Design-Level EventStorming
+
+##### Step 1
+
+<img src="https://files.catbox.moe/1macqs.jpg" alt="Eduardo image" width="200">
+
+##### Step 2
+
+<img src="https://files.catbox.moe/8jtdh2.jpg" alt="Eduardo image" width="200">
+
+
+##### Step 3
+
+<img src="https://files.catbox.moe/308077.jpg" alt="Eduardo image" width="200">
+
+
+##### Step 4
+
+<img src="https://files.catbox.moe/plvpt7.jpg" alt="Eduardo image" width="200">
+
+
+##### Step 5
+
+<img src="https://files.catbox.moe/9odey4.jpg" alt="Eduardo image" width="200">
+
+
+##### Step 6
+
+<img src="https://files.catbox.moe/5vziry.jpg" alt="Eduardo image" width="200">
+
+
+##### Step 7
+
+<img src="https://files.catbox.moe/wrl396.jpg" alt="Eduardo image" width="200">
+
+
+##### Step 8
+
+<img src="https://files.catbox.moe/o24mzn.jpg" alt="Eduardo image" width="200">
+
+
+##### Step 9
+
+<img src="https://files.catbox.moe/7ikhaa.jpg" alt="Eduardo image" width="200">
+
+
+##### Step 10
+
+<img src="https://files.catbox.moe/mthrle.jpg" alt="Eduardo image" width="200">
+
+
+#### 4.6.2. Software Architecture Context Diagram
+
+<img src="https://files.catbox.moe/h7gr3z.png" alt="Eduardo image" width="200">
+
+
+#### 4.6.3.  Software Architecture Container Diagrams
+
+<img src="https://files.catbox.moe/fobfiv.png" alt="Eduardo image" width="200">
+
+<img src="https://files.catbox.moe/v7pvev.png" alt="Eduardo image" width="200">
+
+#### 4.6.4.  Software Architecture Components Diagrams
+
+#### Componente 1
+<img src="https://files.catbox.moe/ocw93f.png" alt="Eduardo image" width="200">
+
+#### Componente 2
+<img src="https://files.catbox.moe/9qra1k.png" alt="Eduardo image" width="200">
+
+#### Componente 3
+<img src="https://files.catbox.moe/tnsaft.png" alt="Eduardo image" width="200">
+
+#### Componente 4
+<img src="https://files.catbox.moe/nlgzuf.png" alt="Eduardo image" width="200">
+
+#### Componente 5
+<img src="https://files.catbox.moe/0l54uc.png" alt="Eduardo image" width="200">
+
+#### Componente 6
+<img src="https://files.catbox.moe/vfgk7q.png" alt="Eduardo image" width="200">
+
+#### Componente 7
+<img src="https://files.catbox.moe/9bfhip.png" alt="Eduardo image" width="200">
+
+###  4.7. Software Object-Oriented Design 
+###  4.7.1 Class Diagrams
+
+<img src="https://files.catbox.moe/4v4c5o.png" alt="Eduardo image" width="500">
+
+###  4.7.2 Class Dictionary
+
+| Clase            | Tipo    | Descripción                                                                                                                                               |
+|------------------|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Usuario          | Entidad | Representa a la persona que usa el sistema. Almacena sus datos (nombre, email, teléfono, contraseña) y permite validar y modificar su información personal. |
+| Cotizacion       | Entidad | Registra los datos de origen, destino, peso, tipo de servicio y precio total de un envío. Permite calcular el precio, validar y generar un envío a partir de una cotización aceptada. |
+| Envio            | Entidad | Representa el envío de un paquete. Almacena direcciones, estado, transportista y fecha estimada de entrega. Permite asignar transportista, calcular el tiempo de entrega y generar la etiqueta. |
+| Paquete          | Entidad | Contiene la información física de un paquete (peso, dimensiones, contenido, fragilidad, seguro). Permite calcular peso volumétrico, volumen y costo de envío. |
+| Seguimiento      | Entidad | Guarda el estado actual y la ubicación de un envío en tiempo real. Permite agregar eventos y consultar el historial de seguimiento. |
+| EventoSeguimiento| Entidad | Representa un evento en el historial del envío (cambio de estado, ubicación y fecha). Permite validar y registrar un nuevo evento. |
+
+
+
+###  4.8. Software Object-Oriented Design 
+###  4.8.1 Database Diagrams
+<img src="https://files.catbox.moe/9uksbq.png" alt="Eduardo image" width="500">
