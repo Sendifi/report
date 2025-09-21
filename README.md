@@ -339,17 +339,7 @@ Equipo de 3 personas. Manejan ~120 envíos/mes, en campañas suben a ~250.
 
 <img width="1050" height="1390" alt="Image" src="https://github.com/user-attachments/assets/64578c70-615a-47a8-a525-207379dcf91d" />
 
-### 2.3.5. As-Is Scenario
 
-#### Segmento 1: Negocios pequeños con personal para realizar envíos
-
-<img width="602" height="261" alt="Image" src="https://github.com/user-attachments/assets/d6838014-4e88-403e-9e2b-4c5eb169d524" />
-
-#### Segmento 2: Emprendedor pequeño (e-commerce/redes sociales)
-
-<img width="602" height="261" alt="Image" src="https://github.com/user-attachments/assets/e4bd1096-fe5e-43fa-b727-fa45a024ccc7" />
-
----
 
 ## 2.4. Big Picture Event Storming
 
