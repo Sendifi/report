@@ -245,42 +245,35 @@ Durante este sprint, el equipo desarrolló los primeros módulos del panel admin
 | **Sprint 2 Velocity**                  | 36                                                                                                                                                                                                                     |
 | **Sum of Story Points**                | 36                                                                                                                                                                                                                     |
 #### 5.2.2.2. Aspect Leaders and Collaborators
-Durante este sprint, las responsabilidades se distribuyeron considerando las fortalezas de cada miembro, abarcando desarrollo frontend, backend, integración de API y documentación técnica.
+Durante este sprint, las responsabilidades se distribuyeron considerando las competencias técnicas y el rol de cada integrante dentro del equipo de desarrollo. Se buscó mantener un equilibrio entre las tareas de frontend, backend, integración y documentación, asegurando una colaboración fluida entre todos los miembros.
 
-| Team Member | GitHub Username | Frontend | Backend/API | Database | Testing & QA | Deployment | Documentation |
-|-----------------|---------------------|---------------|------------------|---------------|------------------|----------------|
-| Joan Aguirre | JoanAEneque | C | L | C | C | L | C |
-| Miguel Esquirva | juandyoff | C | L | L | C | C | C |
-| Pietro Osores | PietroOsores | L | C | C | L | C | C |
-| Harrison Payesa | HHPayesa | C | C | C | C | L | C |
-| Eduardo Cossar | Coleeeee-dev | C | C | C | L | C | L |
+| **Miembro del Equipo** | **GitHub Username**                             | **Rol Principal**                    | **Frontend** | **Backend / API REST** | **Base de Datos** | **Testing & QA** | **Deployment / DevOps** | **Documentación** |
+| ---------------------- | ----------------------------------------------- | ------------------------------------ | ------------ | ---------------------- | ----------------- | ---------------- | ----------------------- | ----------------- |
+| **Joan Aguirre**       | [JoanAguirre]  | Líder de Backend                     | Apoyo     | Líder               | Colabora       | Apoyo         | Apoyo                | Colabora       |
+| **Harrison Payesa**    | [Harrison1024] | Líder de QA y Testing                | Apoyo     | Apoyo               | Apoyo          | Líder         | Colabora             | Apoyo          |
+| **Juandy Off**         | [juandyoff]       | Líder de Frontend                    | Líder     | Apoyo               | Apoyo          | Colabora      | Apoyo                | Colabora       |
+| **Eduardo Cossar**     | [coleeeee-dev] | Líder de Documentación               | Apoyo     | Colabora            | Colabora       | Colabora      | Apoyo                | Líder          |
+| **Pietro Osores**      | [Maximoff19]     | Líder de Integración y Base de Datos | Colabora  | Colabora            | Líder          | Apoyo         | Colabora             | Apoyo          |
+
 
 #### .2.2.3. Sprint Backlog 2
 Durante este sprint se priorizaron las funcionalidades esenciales que permiten la operatividad básica del sistema de envíos, tracking y cotización de tarifas. Se utilizó Trello para dividir las user stories en tareas específicas y asignarlas al equipo.
 
-| User Story ID | User Story | Task ID | Task Title | Descripción | Estimación (hrs) | Asignado a | Estado |
-|-------------------|----------------|--------------|----------------|----------------|----------------|----------------|
-| US-01.1 | Crear envío | T1 | Diseño del formulario de envío | Crear interfaz con campos de remitente, destinatario, dirección, peso y costo. | 6 | Pietro Osores | Done |
-| | | T2 | Implementación del registro de envío | Programar la lógica para guardar envíos en la base de datos. | 6 | Miguel Esquirva | Done |
-| US-01.2 | Guardar clientes frecuentes | T1 | Crear módulo de clientes frecuentes | Permitir registrar y listar clientes frecuentes. | 5 | Joan Aguirre | Done |
-| US-02.1 | Ver estado del envío | T1 | Diseño del timeline de tracking | Mostrar estados del envío: registrado → en tránsito → entregado. | 6 | Pietro Osores | Done |
-| | | T2 | Integración con backend | Conectar timeline con endpoint /tracking/:id. | 5 | Miguel Esquirva | Done |
-| US-02.2 | Consulta pública de tracking | T1 | Módulo de búsqueda pública | Permitir al cliente consultar un envío sin iniciar sesión. | 4 | Harrison Payesa | Done |
-| US-03.1 | Cotizador de tarifas | T1 | Implementar cotizador | Calcular tarifas según peso y destino. | 6 | Miguel Esquirva | Done |
-| US-03.2 | Selección de courier | T1 | Integrar selección de courier | Mostrar couriers y permitir elegir uno. | 4 | Eduardo Cossar | Done |
-| US-07.1 | Endpoint de creación de envíos | T1 | Desarrollo del endpoint POST | Crear endpoint /api/shipments con validación de datos. | 5 | Miguel Esquirva | Done |
-| US-07.2 | Endpoint de tracking | T1 | Desarrollo del endpoint GET | Endpoint /api/tracking/:id para consultar estado. | 4 | Harrison Payesa | Done |
+| **User Story ID** | **User Story (Descripción)**                                                        | **Task ID** | **Tarea Específica**                          | **Descripción Detallada**                                                                    | **Estimación (hrs)** | **Asignado a (GitHub)** | **Estado** |
+| ----------------- | ----------------------------------------------------------------------------------- | ----------- | --------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------- | ----------------------- | ---------- |
+| US-01.1           | Como usuario, quiero crear un envío para registrar los datos del paquete.           | T1          | Diseño del formulario de envío                | Creación de la interfaz con campos para remitente, destinatario, dirección, peso y courier.  | 6                    | juandyoff               | Done       |
+|                   |                                                                                     | T2          | Implementación del registro en backend        | Programar el endpoint `/api/shipments` para guardar los datos del envío en la base de datos. | 6                    | JoanAguirre             | Done       |
+| US-01.2           | Como usuario frecuente, quiero guardar mis datos para agilizar mis próximos envíos. | T3          | Módulo de clientes frecuentes                 | Permitir registrar y listar clientes frecuentes, con validación de duplicados.               | 5                    | Maximoff19              | Done       |
+| US-02.1           | Como cliente, quiero ver el estado de mi envío en tiempo real.                      | T4          | Diseño del timeline de tracking               | Mostrar las etapas del envío: registrado → en tránsito → entregado.                          | 6                    | juandyoff               | Done       |
+|                   |                                                                                     | T5          | Integración con backend                       | Conectar el timeline con el endpoint `/api/tracking/:id`.                                    | 5                    | JoanAguirre             | Done       |
+| US-02.2           | Como cliente externo, quiero consultar el tracking sin iniciar sesión.              | T6          | Módulo público de tracking                    | Crear una página pública con buscador por código de envío.                                   | 4                    | Harrison1024            | Done       |
+| US-03.1           | Como usuario, quiero cotizar el costo de envío antes de registrarlo.                | T7          | Implementar cotizador de tarifas              | Calcular tarifas según peso y destino mediante un formulario interactivo.                    | 6                    | JoanAguirre             | Done       |
+| US-03.2           | Como usuario, quiero elegir entre diferentes couriers.                              | T8          | Integrar selección de courier                 | Mostrar lista de couriers disponibles y permitir seleccionar uno antes del envío.            | 4                    | coleeeee-dev            | Done       |
+| US-07.1           | Como desarrollador, quiero crear endpoints REST para envíos.                        | T9          | Desarrollo del endpoint POST `/api/shipments` | Validar los datos de entrada y registrar nuevos envíos en la base de datos.                  | 5                    | JoanAguirre             | Done       |
+| US-07.2           | Como desarrollador, quiero crear el endpoint de tracking.                           | T10         | Endpoint GET `/api/tracking/:id`              | Retornar la información del envío y sus estados asociados.                                   | 4                    | Harrison1024            | Done       |
 
 
 #### 5.2.2.4. Development Evidence for Sprint Review
-| **Repository**  | **Branch** | **Commit Id** | **Commit Message**                       | **Commited on (Date)** |
-| --------------- | ---------- | ------------- | ---------------------------------------- | ---------------------- |
-| sendify-webapp  | develop    | 1a2b3c4       | feat: add shipment creation form         | 16/05/2025             |
-| sendify-webapp  | develop    | 2b3c4d5       | fix: API connection with Flask backend   | 16/05/2025             |
-| sendify-backend | main       | 3c4d5e6       | feat: implement POST /api/shipments      | 16/05/2025             |
-| sendify-backend | main       | 4d5e6f7       | feat: add GET /api/tracking/:id endpoint | 16/05/2025             |
-| sendify-webapp  | develop    | 5e6f7g8       | style: update tracking timeline UI       | 17/05/2025             |
-| sendify-backend | develop    | 6f7g8h9       | refactor: optimize rate calculator       | 17/05/2025             |
 
 (images)
 
