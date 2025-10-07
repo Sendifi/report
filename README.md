@@ -221,3 +221,79 @@ No se integraron servicios externos en este sprint. Todo fue **frontend** (HTML,
 
 - Aprendizajes: registrar avances diarios con más frecuencia y documentar commits detallados.  
 
+#### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+Dentro del marco de trabajo Scrum, cada Sprint representa un período corto de trabajo enfocado, en el que el equipo busca cumplir con un conjunto de objetivos que contribuyen al Product Goal (Schwaber & Sutherland, 2020).
+
+En el contexto del desarrollo de Sendify, el Sprint 2 inició el 06/05/2025, teniendo como propósito implementar las funcionalidades principales del sistema web, enfocadas en la gestión de envíos, tracking y cotización de tarifas, integrando tanto el frontend (Angular) como el backend (Flask API) para lograr un sistema funcional y conectado.
+
+Durante este sprint, el equipo desarrolló los primeros módulos del panel administrativo y del sistema de seguimiento público, asegurando la correcta conexión con la base de datos y los endpoints iniciales de la API RESTful.
+
+| **Sprint #**                           | Sprint 2                                                                                                                                                                                                               |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**         |                                                                                                                                                                                                                        |
+| **Date**                               | 2025-05-06                                                                                                                                                                                                             |
+| **Time**                               | 8:00 PM                                                                                                                                                                                                                |
+| **Location**                           | Reunión virtual (Google Meet)                                                                                                                                                                                          |
+| **Prepared by**                        | Joan Elias Aguirre Eneque                                                                                                                                                                                              |
+| **Attendees (to planning meeting)**    | Joan Aguirre, Miguel Esquirva, Pietro Osores, Harrison Payesa, Eduardo Cossar                                                                                                                                          |
+| **Sprint n - 2 Review Summary**        | Se desarrollaron los módulos funcionales del backend y se integraron al frontend, enfocándose en la gestión de envíos, el tracking unificado y el cotizador de tarifas.                                                |
+| **Sprint n - 2 Retrospective Summary** | Se identificó la importancia de iniciar las pruebas unitarias antes de finalizar el sprint, y se mejoró la comunicación técnica entre las capas frontend y backend para evitar inconsistencias en el consumo de datos. |
+| **Sprint Goal & User Stories**         |                                                                                                                                                                                                                        |
+| **Sprint 2 Goal**                      | Desarrollar e integrar los módulos funcionales de **Gestión de Envíos**, **Tracking Unificado** y **Cotización de Tarifas** en la aplicación web de Sendify, garantizando la conexión efectiva con la API RESTful.     |
+| **Expected Deliverable**               | Un sistema funcional que permita crear, listar y consultar envíos, visualizar su estado en tiempo real, y cotizar tarifas según peso y destino.                                                                        |
+| **Sprint 2 Velocity**                  | 36                                                                                                                                                                                                                     |
+| **Sum of Story Points**                | 36                                                                                                                                                                                                                     |
+#### 5.2.2.2. Aspect Leaders and Collaborators
+Durante este sprint, las responsabilidades se distribuyeron considerando las fortalezas de cada miembro, abarcando desarrollo frontend, backend, integración de API y documentación técnica.
+
+| Team Member | GitHub Username | Frontend | Backend/API | Database | Testing & QA | Deployment | Documentation |
+|-----------------|---------------------|---------------|------------------|---------------|------------------|----------------|
+| Joan Aguirre | JoanAEneque | C | L | C | C | L | C |
+| Miguel Esquirva | juandyoff | C | L | L | C | C | C |
+| Pietro Osores | PietroOsores | L | C | C | L | C | C |
+| Harrison Payesa | HHPayesa | C | C | C | C | L | C |
+| Eduardo Cossar | Coleeeee-dev | C | C | C | L | C | L |
+
+#### .2.2.3. Sprint Backlog 2
+Durante este sprint se priorizaron las funcionalidades esenciales que permiten la operatividad básica del sistema de envíos, tracking y cotización de tarifas. Se utilizó Trello para dividir las user stories en tareas específicas y asignarlas al equipo.
+
+| User Story ID | User Story | Task ID | Task Title | Descripción | Estimación (hrs) | Asignado a | Estado |
+|-------------------|----------------|--------------|----------------|----------------|----------------|----------------|
+| US-01.1 | Crear envío | T1 | Diseño del formulario de envío | Crear interfaz con campos de remitente, destinatario, dirección, peso y costo. | 6 | Pietro Osores | Done |
+| | | T2 | Implementación del registro de envío | Programar la lógica para guardar envíos en la base de datos. | 6 | Miguel Esquirva | Done |
+| US-01.2 | Guardar clientes frecuentes | T1 | Crear módulo de clientes frecuentes | Permitir registrar y listar clientes frecuentes. | 5 | Joan Aguirre | Done |
+| US-02.1 | Ver estado del envío | T1 | Diseño del timeline de tracking | Mostrar estados del envío: registrado → en tránsito → entregado. | 6 | Pietro Osores | Done |
+| | | T2 | Integración con backend | Conectar timeline con endpoint /tracking/:id. | 5 | Miguel Esquirva | Done |
+| US-02.2 | Consulta pública de tracking | T1 | Módulo de búsqueda pública | Permitir al cliente consultar un envío sin iniciar sesión. | 4 | Harrison Payesa | Done |
+| US-03.1 | Cotizador de tarifas | T1 | Implementar cotizador | Calcular tarifas según peso y destino. | 6 | Miguel Esquirva | Done |
+| US-03.2 | Selección de courier | T1 | Integrar selección de courier | Mostrar couriers y permitir elegir uno. | 4 | Eduardo Cossar | Done |
+| US-07.1 | Endpoint de creación de envíos | T1 | Desarrollo del endpoint POST | Crear endpoint /api/shipments con validación de datos. | 5 | Miguel Esquirva | Done |
+| US-07.2 | Endpoint de tracking | T1 | Desarrollo del endpoint GET | Endpoint /api/tracking/:id para consultar estado. | 4 | Harrison Payesa | Done |
+
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+| **Repository**  | **Branch** | **Commit Id** | **Commit Message**                       | **Commited on (Date)** |
+| --------------- | ---------- | ------------- | ---------------------------------------- | ---------------------- |
+| sendify-webapp  | develop    | 1a2b3c4       | feat: add shipment creation form         | 16/05/2025             |
+| sendify-webapp  | develop    | 2b3c4d5       | fix: API connection with Flask backend   | 16/05/2025             |
+| sendify-backend | main       | 3c4d5e6       | feat: implement POST /api/shipments      | 16/05/2025             |
+| sendify-backend | main       | 4d5e6f7       | feat: add GET /api/tracking/:id endpoint | 16/05/2025             |
+| sendify-webapp  | develop    | 5e6f7g8       | style: update tracking timeline UI       | 17/05/2025             |
+| sendify-backend | develop    | 6f7g8h9       | refactor: optimize rate calculator       | 17/05/2025             |
+
+(images)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+(images)
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+El sistema fue desplegado de manera distribuida:
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+Durante este segundo sprint se observó una mejor coordinación en GitHub mediante ramas dedicadas por feature (feature/shipment, feature/tracking, feature/rates).
+Se establecieron reuniones de daily scrums breves para monitorear el progreso y resolver bloqueos técnicos.
+Además, el uso de Trello permitió una visualización clara del avance y priorización de tareas, lo que facilitó el cumplimiento de los objetivos planificados.
+
+(images)
