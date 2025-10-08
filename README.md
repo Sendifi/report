@@ -401,6 +401,17 @@ Sabremos que hemos tenido éxito cuando observemos que la mayoría de **cuentas 
 | **Precios y costos** | SaaS por suscripción escalable según volumen. | Planes por volumen y número de couriers. | Planes flexibles para medianas y grandes. | Licencia SaaS + implementación/soporte. |
 | **Canales (Web/Móvil)** | Web + app móvil. | Web + app móvil. | Web (módulos integrables) + app móvil en desarrollo. | Web + app móvil empresarial. |
 
+### Comparación de precios estimados y costos (benchmark)
+
+| **Criterio** | **Sendify (estimado)** | **Envíame / plataformas multicourier** | **Entregalo.pe / monitoreo nacional** | **Delego / TMS + optimización de rutas** |
+|---------------|------------------------|----------------------------------------|----------------------------------------|--------------------------------------------|
+| **Modelo de precio / estructura típica en mercado logístico** | Suscripción mensual + tarifa por envío extra según volumen. | Planes por volumen o número de couriers + tarifas por uso. | Planes adaptados para medianas/grandes, con tarifas por monitoreo. | Licencia SaaS mensual + módulos de rutas o flota + soporte. |
+| **Estimación de precio base mensual (empresa pequeña)** | **USD 70 – 150** (≈ S/ 260 – 560) | **USD 100 – 250** (≈ S/ 370 – 930) | **USD 150 – 300** (≈ S/ 560 – 1,100) | **USD 250 – 600** (≈ S/ 930 – 2,200) |
+| **Costo por envío / transacción adicional** | **USD 0.05 – 0.25** / envío | **USD 0.05 – 0.20** / envío (según courier) | **USD 0.10 – 0.30** / envío | **USD 0.10 – 0.25** / envío (incluye optimización) |
+| **Costos de implementación / setup inicial** | **USD 200 – 800** | **USD 300 – 1,000** | **USD 500 – 1,200** | **USD 800 – 2,000** (según módulos y flota) |
+| **Margen de variación esperable** | ± 15 – 30 % según volumen y soporte. | ± 15 – 25 % según cantidad de couriers. | ± 20 – 35 % por cobertura y soporte local. | ± 25 – 40 % según personalización y tamaño de flota. |
+
+
 ---
 
 ### Análisis SWOT
