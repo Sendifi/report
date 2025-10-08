@@ -167,44 +167,7 @@ David lidera un negocio con un equipo de 20 personas para la gestión de envíos
 
 ---
 
-### Entrevista 3 – Segmento 1  
-**Paola (Emprendimiento de Ropa y Accesorios, Surco)**  
 
-**Hallazgo 1:**  
-Paola gestiona entre 200–300 envíos/mes, y en picos (Día de la Madre, Navidad) llega a 20–30 diarios.  
-
-- **Couriers:** Olva (Lima) y Shalom (provincias), motorizados en algunos distritos.  
-- **Procesos:** Corte diario a las 3:00 PM, guías PDF, impresión A6 con impresora térmica.  
-- **Problemas:**  
-  - Tracking manual con una colaboradora dedicada.  
-  - Costos en Excel.  
-  - Notificación manual por WhatsApp.  
-  - Errores en direcciones, etiquetas mal pegadas, duplicación de guías.  
-- **Necesidades:**  
-  - Guardar direcciones frecuentes.  
-  - Plantillas de etiquetas.  
-  - Centralización de cotización, guías, tracking y reportes.  
-
----
-
-### Entrevista 4 – Segmento 2  
-**Brenda (Emprendimiento de Joyas, 23 años)**  
-
-**Hallazgo 1:**  
-Opera desde casa, con 40–60 envíos/mes (hasta 100 en temporadas).  
-
-- **Couriers:** Actualmente solo Lima, quiere expandirse a provincias con Olva o Shalom.  
-- **Problemas:**  
-  - Cotización manual tediosa y complicada.  
-  - Tracking manual en portales y Excel.  
-  - Enlaces de seguimiento compartidos manualmente.  
-- **Datos críticos:** nombre, dirección exacta con referencias, a veces DNI.  
-- **Necesidades:**  
-  - Cotizador ágil.  
-  - Reportes de tiempos, costos, devoluciones, gastos totales.  
-  - Centralización de envíos y reportes.  
-
----
 
 ### Entrevista 5 – Segmento 1  
 **Victoria Contreras (Botica EcoFarma, 27 años, San Martín de Porres)**  
