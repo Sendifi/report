@@ -169,7 +169,7 @@ David lidera un negocio con un equipo de 20 personas para la gestión de envíos
 
 
 
-### Entrevista 5 – Segmento 1  
+### Entrevista 3 – Segmento 1  
 **Victoria Contreras (Botica EcoFarma, 27 años, San Martín de Porres)**  
 
 **Hallazgo 1:**  
@@ -188,7 +188,7 @@ Botica con 2 motorizados propios a tiempo completo (~250 envíos/mes).
 
 ---
 
-### Entrevista 6 – Segmento 2  
+### Entrevista 4 – Segmento 2  
 **Julieta Cárdenas (E-commerce de galletas y postres, 27 años)**  
 
 **Hallazgo 1:**  
@@ -209,7 +209,7 @@ Botica con 2 motorizados propios a tiempo completo (~250 envíos/mes).
 
 ---
 
-### Entrevista 7 – Segmento 1  
+### Entrevista 5 – Segmento 1  
 **Maria Fernanda (19 años, accesorios para celulares, San Juan de Lurigancho)**  
 
 **Hallazgo 1:**  
@@ -231,7 +231,7 @@ Equipo de 3 personas. Manejan ~120 envíos/mes, en campañas suben a ~250.
 
 ---
 
-### Entrevista 8 – Segmento 2  
+### Entrevista 6 – Segmento 2  
 **Paul (53 años, polos y hoodies, Los Olivos)**  
 
 **Hallazgo 1:**  
