@@ -760,7 +760,7 @@ Link del Miro: https://miro.com/welcomeonboard/SGJsWTllUnVQVXg5SHhlY1VFSzVMR1JhZ
 
 | **Órden** | **Story ID** | **Título** | **Descripción** | **Story Points** |
 |--------|---------|-------------|--------|--------|
-| 1   | US-01.1 | Crear envío | Como administrador logístico, quiero crear una orden de envío (remitente, destinatario, dirección, peso, costo) para centralizar la gestión. | 8   |
+| 1   | US-01.1 | Crear envío | Como administrador logístico, quiero crear una orden de envío (remitente, destinatario, dirección, peso, costo) para centralizar la gestión. | 6   |
 | 2   | US-01.2 | Guardar clientes frecuentes | Como administrador logístico, quiero guardar clientes y direcciones frecuentes para agilizar la creación de envíos. | 5   |
 | 3   | US-02.1 | Ver estado del envío | Como administrador logístico, quiero consultar el estado de cada envío en un timeline estandarizado. | 5   |
 | 4   | US-02.2 | Consulta pública de tracking | Como consumidor final, quiero ingresar el código en un portal público para conocer el estado de mi pedido. | 5   |
@@ -772,7 +772,7 @@ Link del Miro: https://miro.com/welcomeonboard/SGJsWTllUnVQVXg5SHhlY1VFSzVMR1JhZ
 | 10  | US-05.2 | Exportación de reportes | Como admin, quiero exportar reportes en CSV o PDF para compartir con mi equipo. | 3   |
 | 11  | US-06.1 | Información de la propuesta | Como visitante, quiero ver beneficios de Sendify en la landing page para entender el valor de la plataforma. | 2   |
 | 12  | US-06.2 | Registro inicial | Como visitante, quiero registrarme desde la landing page para comenzar a usar Sendify. | 3   |
-| 13  | TS-07.1 | Endpoint de creación de envíos | Como developer, quiero un endpoint POST para registrar envíos con validación de datos. | 8   |
+| 13  | TS-07.1 | Endpoint de creación de envíos | Como developer, quiero un endpoint POST para registrar envíos con validación de datos. | 6   |
 | 14  | TS-07.2 | Endpoint de tracking | Como developer, quiero un endpoint GET para consultar estados por código de envío. | 5   |
 | 15  | TS-07.3 | Endpoint de tarifas | Como developer, quiero un endpoint GET que devuelva tarifas según peso y destino. | 5   |
 
