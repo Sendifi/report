@@ -1492,12 +1492,12 @@ Link de figma: https://www.figma.com/design/JCyLEghztY7QwnrYHAJvRH/sendify?m=aut
 
 ##### Step 9
 
-<img src="https://files.catbox.moe/7ikhaa.jpg" alt="Eduardo image" width="200">
+<img src="https://github.com/user-attachments/assets/944f9a10-7a85-433f-a25a-eae98adb81df" alt="Eduardo image" width="200">
 
 
 ##### Step 10
 
-<img src="https://files.catbox.moe/mthrle.jpg" alt="Eduardo image" width="200">
+<img src="https://github.com/user-attachments/assets/b6edbced-c136-4005-a359-4641ccc9b8ca" alt="Eduardo image" width="200">
 
 
 #### 4.6.2. Software Architecture Context Diagram
