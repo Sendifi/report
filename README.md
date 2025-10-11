@@ -1833,18 +1833,53 @@ Durante este sprint se priorizaron las funcionalidades esenciales que permiten l
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
-(images)
+<img src="https://files.catbox.moe/x7ekav.png" alt="Eduardo image" width="200">
+
+<img src="https://files.catbox.moe/b236wz.png" alt="Eduardo image" width="200">
+
+<img src="https://files.catbox.moe/6rkjea.png" alt="Eduardo image" width="200">
+
+<img src="https://files.catbox.moe/62zu6b.png" alt="Eduardo image" width="200">
+
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-(images)
+A continuación, se presentan tres fragmentos de código que evidencian el uso e implementación de los servicios en el aplicación, abarcando desde la configuración de rutas hasta la lógica de negocio y la presentación de datos al usuario:
+
+Archivo de Rutas (Vue.js Routing) 
+Archivo: router/index.js 
+
+Función: Define la estructura de navegación de toda la aplicación
+
+Importancia: -Permite acceder a las páginas donde se usan servicios
+ -Es el punto de entrada para mostrar componentes que a su vez usan servicios para obtener, actualizar o eliminar datos.
+
+<img src="https://files.catbox.moe/28j09f.png" alt="Eduardo image" width="200">
+
+
+httpService (Implementation Service Class) Archivo: http.service.ts Función: Es una clase utilitaria que centraliza operaciones comunes de los servicios (GET, PUT, PATCH).
+
+Importancia:
+
+Estandariza el consumo de APIs REST.
+
+Evita duplicar código al implementar métodos reutilizables para manejar recursos.
+
+Permite manejar errores con catchError y hacer reintentos con retry.
+
+
+
+<img src="https://files.catbox.moe/zj0o2g.png" alt="Eduardo image" width="200">
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 El sistema fue desplegado de manera distribuida:
+
+Link del Frontend desplegado: https://proyecto-sendify.vercel.app
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 Durante este segundo sprint se observó una mejor coordinación en GitHub mediante ramas dedicadas por feature (feature/shipment, feature/tracking, feature/rates).
 Se establecieron reuniones de daily scrums breves para monitorear el progreso y resolver bloqueos técnicos.
 Además, el uso de Trello permitió una visualización clara del avance y priorización de tareas, lo que facilitó el cumplimiento de los objetivos planificados.
 
-(images)
+<img src="https://files.catbox.moe/rcukfb.png" alt="Eduardo image" width="200">
