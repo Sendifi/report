@@ -325,3 +325,129 @@ Se establecieron reuniones de daily scrums breves para monitorear el progreso y 
 Además, el uso de Trello permitió una visualización clara del avance y priorización de tareas, lo que facilitó el cumplimiento de los objetivos planificados.
 
 <img src="https://files.catbox.moe/rcukfb.png" alt="Eduardo image" width="200">
+
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1.Sprint Planning 3
+
+Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo fijo y breve en el que el equipo de desarrollo trabaja de manera enfocada para alcanzar un objetivo específico que contribuya al cumplimiento del Product Goal (Schwaber, K. & Sutherland, J., 2020). En el contexto del desarrollo de la plataforma TuChamba, el Sprint #3 dio inicio el 29/05/2025, y su meta consiste en completar la aplicación web del lado frontend y comenzar con el backend . Durante este Sprint, se desarrollaron las funcionalidades esenciales para ambos segmentos objetivo - trabajadores técnicos independientes y usuarios que requieren servicios técnicos: los clientes pueden explorar perfiles de diferentes trabajadores técnicos y solicitar sus servicios de manera intuitiva, mientras que los trabajadores técnicos tienen acceso a herramientas de gestión que les permiten configurar sus tarifas, administrar sus servicios ofrecidos y visualizar las solicitudes de trabajo asignadas.
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 3</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-11-05</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">09:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión virtual mediante la aplicación Discord</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Joan Aguirre</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Joan Aguirre, Miguel Esquirva, Pietro Osores, Harrison Payesa, Eduardo Cossar</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 3 Review Summary</b></td>
+      <td colspan="1">Durante este sprint se mejoro el frontend de la aplicación web utilizando Vue.js y PrimeVue, tambien se realizo el backend utilizando C#</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 3 Retrospective Summary</b></td>
+      <td colspan="1">Se identificó la necesidad de mejorar la planificación de tareas y la integración temprana de pruebas para evitar retrabajos. También se destacó una mayor fluidez en la comunicación del equipo respecto al sprint anterior, lo que permitió avanzar con mayor claridad en los entregables.</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 3 Goal</b></td>
+      <td colspan="1"><b>Our focus in on</b> developing the full web application frontend using Vue.js and PrimeVue, also we are developing the backend for this app<br><b>We believe it delivers</b> a functional and responsive interface that supports key actions.<br><b>This will be confirmed when</b> customers can find a good deal for their shipments.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 3 Velocity</b></td>
+      <td colspan="1">5</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1">18</td>
+   </tr>
+
+   <tr>
+</tr>
+</table>
+
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+Para este Sprint, se han identificado los principales aspectos del backend application de Sendiy. Con el fin de mejorar la organización y la comunicación del equipo, se ha elaborado la matriz Leadership and Collaboration Matrix (LACX), donde se define quién asume el rol de Líder (L) y quiénes participan como Colaboradores (C) en cada uno de estos aspectos clave. Esta distribución facilita una ejecución más clara y eficiente de las tareas asignadas.
+
+| **Miembro del Equipo** | **GitHub Username**                             | **Rol Principal**                    | **Shipping** | **Delivery** | **User** | **Tracking** | **Deployment / DevOps** | **Courier** |
+| ---------------------- | ----------------------------------------------- | ------------------------------------ | ------------ | ---------------------- | ----------------- | ---------------- | ----------------------- | ----------------- |
+| **Joan Aguirre**       | [JoanAguirre]  | Líder de Delivery API                     | Apoyo     | Líder               | Colabora       | Apoyo         | Apoyo                | Colabora       |
+| **Harrison Payesa**    | [Harrison1024] | Líder de Tracking API                | Apoyo     | Apoyo               | Apoyo          | Líder         | Colabora             | Apoyo          |
+| **Juandy Off**         | [juandyoff]       | Líder de Shipping API                    | Líder     | Apoyo               | Apoyo          | Colabora      | Apoyo                | Colabora       |
+| **Eduardo Cossar**     | [coleeeee-dev] | Líder de Courier API               | Apoyo     | Colabora            | Colabora       | Colabora      | Apoyo                | Líder          |
+| **Pietro Osores**      | [Maximoff19]     | Líder de User API | Colabora  | Colabora            | Líder          | Apoyo         | Colabora             | Apoyo          |
+
+
+#### 5.2.3.3.Sprint Backlog 3.
+
+En el tercer sprint backlog, el equipo tuvo la intención de avanzar de manera significativa en el desarrollo del backend de Sendify, consolidando la arquitectura del sistema e implementando los servicios principales relacionados con la gestión de envíos, el tracking y la cotización de tarifas. En este periodo se trabajó en la definición de las entidades, endpoints y la lógica de negocio necesaria para soportar las operaciones básicas de la plataforma, dejando preparado el backend para su posterior integración con el frontend.
+
+
+
+| **User Story ID** | **User Story (Descripción)**                                                        | **Task ID** | **Tarea Específica**                          | **Descripción Detallada**                                                                    | **Estimación (hrs)** | **Asignado a (GitHub)** | **Estado** |
+| ----------------- | ----------------------------------------------------------------------------------- | ----------- | --------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------- | ----------------------- | ---------- |
+| US-01.1           | Como usuario, quiero crear un envío para registrar los datos del paquete.           | T1          | Diseño del formulario de envío                | Creación de la interfaz con campos para remitente, destinatario, dirección, peso y courier.  | 6                    | juandyoff               | Done       |
+|                   |                                                                                     | T2          | Implementación del registro en backend        | Programar el endpoint `/api/shipments` para guardar los datos del envío en la base de datos. | 6                    | JoanAguirre             | Done       |
+| US-01.2           | Como usuario frecuente, quiero guardar mis datos para agilizar mis próximos envíos. | T3          | Módulo de clientes frecuentes                 | Permitir registrar y listar clientes frecuentes, con validación de duplicados.               | 5                    | Maximoff19              | Done       |
+| US-02.1           | Como cliente, quiero ver el estado de mi envío en tiempo real.                      | T4          | Diseño del timeline de tracking               | Mostrar las etapas del envío: registrado → en tránsito → entregado.                          | 6                    | juandyoff               | Done       |
+|                   |                                                                                     | T5          | Integración con backend                       | Conectar el timeline con el endpoint `/api/tracking/:id`.                                    | 5                    | JoanAguirre             | Done       |
+| US-02.2           | Como cliente externo, quiero consultar el tracking sin iniciar sesión.              | T6          | Módulo público de tracking                    | Crear una página pública con buscador por código de envío.                                   | 4                    | Harrison1024            | Done       |
+| US-03.1           | Como usuario, quiero cotizar el costo de envío antes de registrarlo.                | T7          | Implementar cotizador de tarifas              | Calcular tarifas según peso y destino mediante un formulario interactivo.                    | 6                    | JoanAguirre             | Done       |
+| US-03.2           | Como usuario, quiero elegir entre diferentes couriers.                              | T8          | Integrar selección de courier                 | Mostrar lista de couriers disponibles y permitir seleccionar uno antes del envío.            | 4                    | coleeeee-dev            | Done       |
+| US-07.1           | Como desarrollador, quiero crear endpoints REST para envíos.                        | T9          | Desarrollo del endpoint POST `/api/shipments` | Validar los datos de entrada y registrar nuevos envíos en la base de datos.                  | 5                    | Maximoff19             | Done       |
+| US-07.2           | Como desarrollador, quiero crear el endpoint de tracking.                           | T10         | Endpoint GET `/api/tracking/:id`              | Retornar la información del envío y sus estados asociados.                                   | 4                    | Harrison1024            | Done       |
+
+
+
+Enlace para acceder al Trello: [Trello Sprint Backlog 3](https://trello.com/invite/b/683a3962930000c3d5ef87f0/ATTI302ef236cfd65c123fb226b68a19bffeF566BB88/jobconnect-sprint-3)
+
+#### 5.2.2.4.Development Evidence for Sprint Review.
+
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+
+
+
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+Se contempla los servicios de Mysql, con Swagger y OpenAPI para la creación de la documentación interactiva y además de la conección con BD.
+
+
+
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+No se logró el despligue de la aplicación backend.  
+
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+<img src="https://files.catbox.moe/rcukfb.png" alt="Eduardo image" width="400">
+
+
