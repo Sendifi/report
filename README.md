@@ -376,26 +376,26 @@ agradable y memorable para los usuarios.
 Los wireflow diagrams de SENDIFY muestran la estructura de navegación y flujos de usuario entre las diferentes vistas de la aplicación, combinando wireframes de baja fidelidad con los flujos de interacción.
 
 **Flujos de Navegación desde Landing:**
-<img width="2017" height="1176" alt="mermaid-diagram-2025-09-19-124737" src="https://github.com/user-attachments/assets/988e6392-4ab9-4210-a2da-ddd64665cdca" />
-
+<img width="2017" height="1176" alt="1 1 (1)" src="https://github.com/user-attachments/assets/fd3667fc-00f3-43fa-ab8a-96c81eb631e9" />
 
 **Flujos desde Dashboard Principal:**
-<img width="2017" height="1176" alt="mermaid-diagram-2025-09-19-124841" src="https://github.com/user-attachments/assets/74f4c266-d391-4842-8544-31415b8a073a" />
+<img width="2017" height="1176" alt="2 2 (1)" src="https://github.com/user-attachments/assets/21072dab-867f-47a4-befa-7d41c23c8924" />
 
 **Flujo de Creación de Envío:**
-<img width="2017" height="1176" alt="mermaid-diagram-2025-09-19-125059" src="https://github.com/user-attachments/assets/48a218f7-1cda-4290-8243-6ab874739154" />
+<img width="2017" height="1176" alt="3 3 (1)" src="https://github.com/user-attachments/assets/35c7d3d8-5a2d-422b-b8f7-a4d19c4c8000" />
 
 **Flujo de Tracking:**
-<img width="960" height="1168" alt="mermaid-diagram-2025-09-19-125306" src="https://github.com/user-attachments/assets/ee65c34d-e925-4df3-8f99-36d13afd22aa" />
+<img width="960" height="1168" alt="4 4 (1)" src="https://github.com/user-attachments/assets/017e430a-c23f-4dfa-92b4-6a76c1af0f03" />
 
 **Flujo de Cotización:**
-<img width="960" height="1168" alt="mermaid-diagram-2025-09-19-125336" src="https://github.com/user-attachments/assets/013102b3-b2be-4e52-be86-b98b3cfdd182" />
+<img width="960" height="1168" alt="5 5 (1)" src="https://github.com/user-attachments/assets/c6bcebd7-bd86-42d1-a131-b4182877b58c" />
 
 **Flujo de Notificaciones:**
-<img width="960" height="1168" alt="mermaid-diagram-2025-09-19-125406" src="https://github.com/user-attachments/assets/be79c5de-5391-483e-8842-b9db81395d50" />
+<img width="960" height="1168" alt="6 6 (1)" src="https://github.com/user-attachments/assets/9c9e91df-270f-45c8-a630-13c5a5ed11c7" />
 
 **Mapa de Navegación Completo:**
-<img width="960" height="1168" alt="mermaid-diagram-2025-09-19-125439" src="https://github.com/user-attachments/assets/4a21eda9-98a4-4694-8bf3-8a5e836d7412" />
+<img width="960" height="1168" alt="7 7 (1)" src="https://github.com/user-attachments/assets/4b6f5837-c625-4079-8b80-596cb1aecfc4" />
+
 
 ## **Conclusiones del Wireflow**
 
@@ -474,29 +474,28 @@ BORDER RADIUS:
 ```
 
 **Dashboard Mock-up**
-<img width="1356" height="859" alt="image" src="https://github.com/user-attachments/assets/07b4edbc-2191-457c-b5d9-cd90f25cc7d1" />
+<img width="960" height="1192" alt="1 (1)" src="https://github.com/user-attachments/assets/3d89b9da-5f4d-4e5a-b8b3-d016ee5cf3b9" />
 
 **Crear Envío Mock-up**
-<img width="977" height="853" alt="image" src="https://github.com/user-attachments/assets/c2529bfd-9a4f-4e5b-a56b-645ef3748424" />
+<img width="960" height="1168" alt="2 (1)" src="https://github.com/user-attachments/assets/5b487703-456f-4f34-9630-081a0c169fa7" />
 
 **Form Validation States:**
-<img width="670" height="184" alt="image" src="https://github.com/user-attachments/assets/3fab2fbf-b02a-438c-9ffc-dd7443e2cbe2" />
+<img width="960" height="1168" alt="3 (1)" src="https://github.com/user-attachments/assets/c0e8f372-93d1-4fa1-9a20-98d63d30bdb1" />
 
 **Tracking Mock-up**
-<img width="1071" height="805" alt="image" src="https://github.com/user-attachments/assets/13ed95f0-1c64-4344-8bfe-52d7a12576e1" />
+<img width="960" height="1168" alt="4 (1)" src="https://github.com/user-attachments/assets/be7a03da-f890-4de5-aa2c-0589888c8856" />
 
 **Tracking Not Found State:**
-<img width="589" height="270" alt="image" src="https://github.com/user-attachments/assets/49a0d9a9-9fc2-4e55-b977-6cfbe65b4520" />
+<img width="670" height="1163" alt="5 (1)" src="https://github.com/user-attachments/assets/c80c1407-4955-44df-80fe-d2f0f76e34d7" />
 
 **Cotización Mock-up**
-<img width="1002" height="727" alt="image" src="https://github.com/user-attachments/assets/0840d974-e09c-4145-b033-c3b335053db0" />
+<img width="670" height="1163" alt="6 (1)" src="https://github.com/user-attachments/assets/da47bf0d-fc7b-4b78-8f37-3e0265fa5070" />
 
 **Selected Courier State:**
-<img width="736" height="368" alt="image" src="https://github.com/user-attachments/assets/44c0fc93-3307-412b-83d0-a354d91ed04e" />
+<img width="670" height="1187" alt="7 (1)" src="https://github.com/user-attachments/assets/2618024a-4129-4706-b9d7-047daabe1fa5" />
 
 **Notificaciones Mock-up**
-<img width="1034" height="861" alt="image" src="https://github.com/user-attachments/assets/1c57fb4d-f8a2-4c76-b812-c8202e4a9973" />
-<img width="1099" height="862" alt="image" src="https://github.com/user-attachments/assets/949b95a3-351a-48e8-b4cd-fd10572f3fe7" />
+<img width="670" height="1187" alt="8 (1)" src="https://github.com/user-attachments/assets/9b9bc813-6e1d-4e0c-848f-44d35d35f44a" />
 
 **Conclusiones de Mock-ups**
 
