@@ -486,16 +486,16 @@ BORDER RADIUS:
 <img width="960" height="1168" alt="4 (1)" src="https://github.com/user-attachments/assets/be7a03da-f890-4de5-aa2c-0589888c8856" />
 
 **Tracking Not Found State:**
-<img width="670" height="1163" alt="5 (1)" src="https://github.com/user-attachments/assets/c80c1407-4955-44df-80fe-d2f0f76e34d7" />
+<img width="960" height="1163" alt="5 (1)" src="https://github.com/user-attachments/assets/c80c1407-4955-44df-80fe-d2f0f76e34d7" />
 
 **Cotización Mock-up**
-<img width="670" height="1163" alt="6 (1)" src="https://github.com/user-attachments/assets/da47bf0d-fc7b-4b78-8f37-3e0265fa5070" />
+<img width="960" height="1163" alt="6 (1)" src="https://github.com/user-attachments/assets/da47bf0d-fc7b-4b78-8f37-3e0265fa5070" />
 
 **Selected Courier State:**
-<img width="670" height="1187" alt="7 (1)" src="https://github.com/user-attachments/assets/2618024a-4129-4706-b9d7-047daabe1fa5" />
+<img width="960" height="1187" alt="7 (1)" src="https://github.com/user-attachments/assets/2618024a-4129-4706-b9d7-047daabe1fa5" />
 
 **Notificaciones Mock-up**
-<img width="670" height="1187" alt="8 (1)" src="https://github.com/user-attachments/assets/9b9bc813-6e1d-4e0c-848f-44d35d35f44a" />
+<img width="960" height="1187" alt="8 (1)" src="https://github.com/user-attachments/assets/9b9bc813-6e1d-4e0c-848f-44d35d35f44a" />
 
 **Conclusiones de Mock-ups**
 
