@@ -426,6 +426,129 @@ En el tercer sprint backlog, el equipo tuvo la intención de avanzar de manera s
 
 Enlace para acceder al Trello: [Trello Sprint Backlog 3](https://trello.com/invite/b/683a3962930000c3d5ef87f0/ATTI302ef236cfd65c123fb226b68a19bffeF566BB88/jobconnect-sprint-3)
 
+#### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+Dentro del marco metodológico Scrum, el Sprint #4 constituye la fase final del desarrollo del proyecto Sendify. En este sprint, el equipo se enfocó en desplegar la versión final de los productos digitales, integrar completamente el frontend y backend, estabilizar microservicios, implementar los nuevos módulos definidos en las user stories adicionales y preparar los entornos para el despliegue productivo.
+
+El Sprint #4 dio inicio el 10/11/2025, y su meta principal fue garantizar que la plataforma esté operativa, funcional y accesible para los usuarios finales, cumpliendo con el Product Goal establecido.
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 4</td>
+   </tr>
+
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+
+   <tr>
+      <td align="center"><b>Date</b></td>
+      <td>2025-11-12</td>
+   </tr>
+
+   <tr>
+      <td align="center"><b>Time</b></td>
+      <td>09:00 PM</td>
+   </tr>
+
+   <tr>
+      <td align="center"><b>Location</b></td>
+      <td>Reunión virtual mediante la aplicación Discord</td>
+   </tr>
+
+   <tr>
+      <td align="center"><b>Prepared By</b></td>
+      <td>Joan Aguirre</td>
+   </tr>
+
+   <tr>
+      <td align="center"><b>Attendees (Planning Meeting)</b></td>
+      <td>Joan Aguirre, Miguel Esquirva, Pietro Osores, Harrison Payesa, Eduardo Cossar</td>
+   </tr>
+
+   <tr>
+      <td align="center"><b>Sprint n - 4 Review Summary</b></td>
+      <td>
+         Durante este sprint se avanzó en la integración del backend con el frontend, 
+         se ajustaron componentes visuales y se finalizó la lógica principal de búsqueda
+         de envíos. También se realizaron correcciones derivadas de pruebas internas.
+      </td>
+   </tr>
+
+   <tr>
+      <td align="center"><b>Sprint n - 4 Retrospective Summary</b></td>
+      <td>
+         El equipo destacó mejoras en la organización del código y mayor coordinación 
+         entre los responsables del backend y frontend. Se detectó como oportunidad de mejora 
+         una mayor definición técnica antes de iniciar cada tarea para evitar retrabajos.
+      </td>
+   </tr>
+
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+
+   <tr>
+      <td align="center"><b>Sprint 4 Goal</b></td>
+      <td>
+         <b>Our focus is on</b> completing the integration between backend and frontend, refining UI/UX, 
+         and enabling full search, filtering and shipment comparison flow.<br>
+         <b>We believe it delivers</b> a stable, functional and user-ready version of the app flow from start to finish.<br>
+         <b>This will be confirmed when</b> users can complete a search, compare results and interact with the interface smoothly.
+      </td>
+   </tr>
+
+   <tr>
+      <td align="center"><b>Sprint 4 Velocity</b></td>
+      <td>5</td>
+   </tr>
+
+   <tr>
+      <td align="center"><b>Sum of Story Points</b></td>
+      <td>21</td>
+   </tr>
+</table>
+
+
+5.2.4.2. Aspect Leaders and Collaborators
+| **Miembro del Equipo** | **GitHub Username** | **Rol Principal**     | **Autenticación** | **Notificaciones** | **Pagos** | **Landing** | **Reportes** | **Despliegue/DevOps** |
+| ---------------------- | ------------------- | --------------------- | ----------------- | ------------------ | --------- | ----------- | ------------ | --------------------- |
+| Joan Aguirre           | JoanAguirre         | Líder Backend General | Apoyo             | Líder              | Apoyo     | Apoyo       | Colabora     | Líder                 |
+| Harrison Payesa        | Harrison1024        | Líder Tracking API    | Apoyo             | Apoyo              | Colabora  | Apoyo       | Apoyo        | Apoyo                 |
+| Juandy Off             | juandyoff           | Líder Shipping API    | Colabora          | Apoyo              | Apoyo     | Colabora    | Colabora     | Apoyo                 |
+| Eduardo Cossar         | coleeeee-dev        | Líder Courier API     | Apoyo             | Colabora           | Líder     | Apoyo       | Apoyo        | Colabora              |
+| Pietro Osores          | Maximoff19          | Líder User API        | Líder             | Colabora           | Apoyo     | Líder       | Líder        | Colabora              |
+
+
+5.2.4.3. Sprint Backlog 4
+El Sprint Backlog del Sprint #4 se orientó a completar todas las funcionalidades restantes y preparar el sistema para su despliegue final. Esto incluyó la implementación de autenticación avanzada, pasarela de pagos, generación de reportes, notificaciones automatizadas, landing page y mejoras en DevOps.
+
+Tabla Sprint Backlog 4
+| **User Story ID** | **User Story (Descripción)**                                  | **Task ID** | **Tarea Específica**                      | **Descripción Detallada**                                | **Estimación (hrs)** | **Asignado a** | **Estado** |
+| ----------------- | ------------------------------------------------------------- | ----------- | ----------------------------------------- | -------------------------------------------------------- | -------------------- | -------------- | ---------- |
+| US-07.1           | Como usuario, quiero iniciar sesión con credenciales seguras. | T1          | Implementación de Login (Frontend)        | Formulario + validación + estados de carga.              | 5                    | Maximoff19     | Done       |
+|                   |                                                               | T2          | Endpoint `/api/auth/login`                | Autenticación con JWT y hashing.                         | 6                    | JoanAguirre    | Done       |
+| US-07.2           | Recuperación de contraseña por email.                         | T3          | Formulario de recuperación                | Captura correo y envía solicitud.                        | 4                    | Maximoff19     | Done       |
+|                   |                                                               | T4          | Endpoint recuperación `/api/auth/recover` | Genera token de recuperación y envío vía email.          | 5                    | coleeeee-dev   | Done       |
+| TS-07.3           | Autenticación JWT/Session                                     | T5          | Middleware seguridad                      | Validación de tokens en rutas protegidas.                | 4                    | JoanAguirre    | Done       |
+| US-04.1           | Notificación de retraso                                       | T6          | Motor de alertas                          | Detectar retrasos y enviar notificaciones.               | 5                    | Harrison1024   | Done       |
+| US-04.2           | Confirmación de entrega al cliente                            | T7          | Envío de notificación push/email          | Integración con servicio de eventos.                     | 4                    | coleeeee-dev   | Done       |
+| TS-04.3           | Servicio unificado de notificaciones                          | T8          | Microservicio de notificaciones           | Email + WhatsApp (Twilio).                               | 6                    | JoanAguirre    | Done       |
+| US-05.1           | Reportes administrativos                                      | T9          | Generación de reportes (frontend)         | Filtros + visualización + descarga.                      | 6                    | Maximoff19     | Done       |
+| US-05.2           | Exportación CSV/PDF                                           | T10         | Generador PDF server-side                 | Exportación ligera con plantillas.                       | 5                    | coleeeee-dev   | Done       |
+| TS-05.3           | Motor PDF                                                     | T11         | Endpoint `/api/reports/export`            | Recepción de datos y respuesta PDF.                      | 4                    | JoanAguirre    | Done       |
+| US-06.1           | Información de la propuesta (Landing)                         | T12         | Landing page responsive                   | Sección hero, features, pricing.                         | 6                    | juandyoff      | Done       |
+| US-06.2           | Registro inicial                                              | T13         | Formulario + conexión backend             | Registro directo en microservicio User.                  | 4                    | Maximoff19     | Done       |
+| TS-06.3           | SEO técnico                                                   | T14         | Meta tags + sitemap + indexing            | Configuración para motores de búsqueda.                  | 4                    | juandyoff      | Done       |
+| US-09.1           | Pago por envío                                                | T15         | Integración Stripe/NIUBiz                 | Formulario seguro + validaciones + tokenización.         | 7                    | coleeeee-dev   | Done       |
+| US-09.2           | Facturación automática                                        | T16         | Generación de factura PDF                 | Emisión post-pago + envío email.                         | 5                    | JoanAguirre    | Done       |
+| TS-09.3           | Integración pasarela                                          | T17         | Webhooks de pago                          | Validación estado y registro.                            | 4                    | Harrison1024   | Done       |
+| US-06.1           | Despliegue final                                              | T18         | CI/CD + hosting                           | Configuración en Vercel/Netlify + backend en Render/AWS. | 8                    | JoanAguirre    | Done       |
+
+
+
+
 #### 5.2.2.4.Development Evidence for Sprint Review.
 
 
