@@ -483,19 +483,19 @@ BORDER RADIUS:
 <img width="960" height="1168" alt="3 (1)" src="https://github.com/user-attachments/assets/c0e8f372-93d1-4fa1-9a20-98d63d30bdb1" />
 
 **Tracking Mock-up**
-<img width="960" height="1168" alt="4 (1)" src="https://github.com/user-attachments/assets/be7a03da-f890-4de5-aa2c-0589888c8856" />
+<img width="910" height="1168" alt="4 (1)" src="https://github.com/user-attachments/assets/be7a03da-f890-4de5-aa2c-0589888c8856" />
 
 **Tracking Not Found State:**
-<img width="960" height="1163" alt="5 (1)" src="https://github.com/user-attachments/assets/c80c1407-4955-44df-80fe-d2f0f76e34d7" />
+<img width="910" height="1163" alt="5 (1)" src="https://github.com/user-attachments/assets/c80c1407-4955-44df-80fe-d2f0f76e34d7" />
 
 **Cotización Mock-up**
-<img width="960" height="1163" alt="6 (1)" src="https://github.com/user-attachments/assets/da47bf0d-fc7b-4b78-8f37-3e0265fa5070" />
+<img width="870" height="1163" alt="6 (1)" src="https://github.com/user-attachments/assets/da47bf0d-fc7b-4b78-8f37-3e0265fa5070" />
 
 **Selected Courier State:**
-<img width="960" height="1187" alt="7 (1)" src="https://github.com/user-attachments/assets/2618024a-4129-4706-b9d7-047daabe1fa5" />
+<img width="870" height="1187" alt="7 (1)" src="https://github.com/user-attachments/assets/2618024a-4129-4706-b9d7-047daabe1fa5" />
 
 **Notificaciones Mock-up**
-<img width="960" height="1187" alt="8 (1)" src="https://github.com/user-attachments/assets/9b9bc813-6e1d-4e0c-848f-44d35d35f44a" />
+<img width="870" height="1187" alt="8 (1)" src="https://github.com/user-attachments/assets/9b9bc813-6e1d-4e0c-848f-44d35d35f44a" />
 
 **Conclusiones de Mock-ups**
 
@@ -526,7 +526,8 @@ Los diagramas de flujo de usuario de SENDIFY mapean los caminos específicos que
 **1. Flujo Principal: Onboarding de Usuario**
 
 ### **User Flow: Del Landing al Dashboard Activo**
-<img width="960" height="1192" alt="mermaid-diagram-2025-09-19-132258" src="https://github.com/user-attachments/assets/16d698db-f1a6-44ee-87ea-1579dd5e97e2" />
+
+<img width="960" height="1192" alt="111 (1)" src="https://github.com/user-attachments/assets/0849a74d-d869-4b96-a858-6ef3c576f111" />
 
 
 **Explicación del Flujo:**
@@ -535,7 +536,8 @@ Este diagrama mapea el journey crítico desde la primera impresión hasta la act
 **2. Flujo Core: Crear y Rastrear Envío**
 
 ### **User Flow: Proceso Completo de Envío**
-<img width="960" height="1168" alt="mermaid-diagram-2025-09-19-132359" src="https://github.com/user-attachments/assets/959460d8-f240-4a7d-a21b-21d5711ddf70" />
+
+<img width="960" height="1168" alt="222 (1)" src="https://github.com/user-attachments/assets/93448639-98b7-4b36-8f05-45888ebff4cb" />
 
 
 **Explicación del Flujo:**
@@ -544,7 +546,8 @@ Este es el flujo operacional más crítico de SENDIFY, donde se genera el 80% de
 **3. Flujo Especializado: Cotización de Tarifas**
 
 ### **User Flow: Comparación y Selección de Courier**
-<img width="960" height="1168" alt="mermaid-diagram-2025-09-19-132452" src="https://github.com/user-attachments/assets/b43764db-0520-482a-a4f2-35e4d4773420" />
+
+<img width="960" height="1168" alt="333 (1)" src="https://github.com/user-attachments/assets/13afd916-ca16-483d-b616-e5dea06d9e57" />
 
 
 **Explicación del Flujo:**
@@ -553,7 +556,8 @@ Este flujo implementa el épico de cotización inteligente, diferenciador clave 
 **4. Flujo de Notificaciones: Gestión de Alertas**
 
 ### **User Flow: Configuración de Notificaciones**
-<img width="960" height="1168" alt="mermaid-diagram-2025-09-19-132537" src="https://github.com/user-attachments/assets/41bfb3ed-0053-43d2-a373-18fb036a8dba" />
+
+<img width="960" height="1168" alt="444 (1)" src="https://github.com/user-attachments/assets/bf8a7587-5d85-44a0-b6d5-bc66a1fc68b6" />
 
 
 **Explicación del Flujo:**
@@ -562,7 +566,8 @@ Este flujo implementa el épico de sistema de notificaciones automáticas, crít
 **5. Flujo de Tracking Público: Cliente Final**
 
 **User Flow: Cliente Rastreando su Envío**
-<img width="670" height="1163" alt="mermaid-diagram-2025-09-19-132931" src="https://github.com/user-attachments/assets/7a88b82d-df3d-4deb-a929-fab157bec981" />
+
+<img width="670" height="1163" alt="555 (1)" src="https://github.com/user-attachments/assets/658c74fd-244d-40fc-b6e5-183042f26830" />
 
 
 **Explicación del Flujo:**
@@ -571,7 +576,8 @@ Este flujo representa el épico de tracking unificado desde la perspectiva del c
 **6. Flujo B2B: Administrador Logístico**
 
 **User Flow: Gestión Diaria de Operaciones**
-<img width="670" height="1163" alt="mermaid-diagram-2025-09-19-133008" src="https://github.com/user-attachments/assets/d59be7c9-d112-4837-9229-5393669963f4" />
+
+<img width="670" height="1163" alt="666 (1)" src="https://github.com/user-attachments/assets/f1097d69-f246-4f5f-8e91-ab200ed3108d" />
 
 
 
@@ -595,7 +601,8 @@ OPTIMIZACIONES:
 **7. Flujo E-commerce: Emprendedor PyME**
 
 **User Flow: Integración y Escalabilidad**
-<img width="670" height="1187" alt="mermaid-diagram-2025-09-19-133128" src="https://github.com/user-attachments/assets/ec12a91f-0f8e-4de3-a7c5-035152a91716" />
+
+<img width="670" height="1187" alt="777 (1)" src="https://github.com/user-attachments/assets/2a860370-7e55-4a98-8268-6aa7e59f36f9" />
 
 
 
@@ -618,7 +625,8 @@ AHORRO: 4.6 horas/día = 23 horas/semana = 92 horas/mes
 **8. Flujo de Conversión: Free Trial → Paid Plan**
 
 **User Flow: Monetización Efectiva**
-<img width="670" height="1187" alt="mermaid-diagram-2025-09-19-133313" src="https://github.com/user-attachments/assets/1edf9eb5-2dbb-4c6e-9f27-8a9a66f026f0" />
+
+<img width="670" height="1187" alt="888 (1)" src="https://github.com/user-attachments/assets/f5dc653f-5a43-454c-8388-4140b6b4ac44" />
 
 
 
