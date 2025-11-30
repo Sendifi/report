@@ -474,28 +474,29 @@ BORDER RADIUS:
 ```
 
 **Dashboard Mock-up**
-<img width="960" height="1192" alt="1 (1)" src="https://github.com/user-attachments/assets/3d89b9da-5f4d-4e5a-b8b3-d016ee5cf3b9" />
+<img width="1356" height="859" alt="image" src="https://github.com/user-attachments/assets/07b4edbc-2191-457c-b5d9-cd90f25cc7d1" />
 
 **Crear Envío Mock-up**
-<img width="960" height="1168" alt="2 (1)" src="https://github.com/user-attachments/assets/5b487703-456f-4f34-9630-081a0c169fa7" />
+<img width="977" height="853" alt="image" src="https://github.com/user-attachments/assets/c2529bfd-9a4f-4e5b-a56b-645ef3748424" />
 
 **Form Validation States:**
-<img width="960" height="1168" alt="3 (1)" src="https://github.com/user-attachments/assets/c0e8f372-93d1-4fa1-9a20-98d63d30bdb1" />
+<img width="670" height="184" alt="image" src="https://github.com/user-attachments/assets/3fab2fbf-b02a-438c-9ffc-dd7443e2cbe2" />
 
 **Tracking Mock-up**
-<img width="910" height="1168" alt="4 (1)" src="https://github.com/user-attachments/assets/be7a03da-f890-4de5-aa2c-0589888c8856" />
+<img width="1071" height="805" alt="image" src="https://github.com/user-attachments/assets/13ed95f0-1c64-4344-8bfe-52d7a12576e1" />
 
 **Tracking Not Found State:**
-<img width="910" height="1163" alt="5 (1)" src="https://github.com/user-attachments/assets/c80c1407-4955-44df-80fe-d2f0f76e34d7" />
+<img width="589" height="270" alt="image" src="https://github.com/user-attachments/assets/49a0d9a9-9fc2-4e55-b977-6cfbe65b4520" />
 
 **Cotización Mock-up**
-<img width="870" height="1163" alt="6 (1)" src="https://github.com/user-attachments/assets/da47bf0d-fc7b-4b78-8f37-3e0265fa5070" />
+<img width="1002" height="727" alt="image" src="https://github.com/user-attachments/assets/0840d974-e09c-4145-b033-c3b335053db0" />
 
 **Selected Courier State:**
-<img width="870" height="1187" alt="7 (1)" src="https://github.com/user-attachments/assets/2618024a-4129-4706-b9d7-047daabe1fa5" />
+<img width="736" height="368" alt="image" src="https://github.com/user-attachments/assets/44c0fc93-3307-412b-83d0-a354d91ed04e" />
 
 **Notificaciones Mock-up**
-<img width="870" height="1187" alt="8 (1)" src="https://github.com/user-attachments/assets/9b9bc813-6e1d-4e0c-848f-44d35d35f44a" />
+<img width="1034" height="861" alt="image" src="https://github.com/user-attachments/assets/1c57fb4d-f8a2-4c76-b812-c8202e4a9973" />
+<img width="1099" height="862" alt="image" src="https://github.com/user-attachments/assets/949b95a3-351a-48e8-b4cd-fd10572f3fe7" />
 
 **Conclusiones de Mock-ups**
 
