@@ -662,7 +662,7 @@ Este fue el único hallazgo en este segmento, y no se detectaron problemas grave
 
 #### b) Evaluación Heurística – Segmento: Negocio con Personal Operativo (Julieta Cárdenas)
 
-Fuente: [Enlace al documento](https://drive.google.com/file/d/1aGE8zrMhUDEV_gzl2Si9fOEHOadkX-nv/view?usp=sharing)
+Fuente: [Enlace al documento](https://drive.google.com/file/d/17FX9ac3RDBoDEmzfMvEfXvwvNnwHwtZv/view?usp=sharing)
 
 La evaluación del flujo de registro de repartidores y visualización de envíos asignados no reportó incidencias.
 
