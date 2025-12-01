@@ -573,4 +573,107 @@ No se logró el despligue de la aplicación backend.
 
 <img src="https://files.catbox.moe/rcukfb.png" alt="Eduardo image" width="400">
 
+## 5.3. Validation Interviews
 
+### 5.3.1. Diseño de Entrevistas.
+
+#### Segmento 1: Negocios pequeños con personal para realizar envíos
+
+Preguntas generales (orientadas al prototipo):
+
+- ¿La Landing Page comunica claramente qué es Sendifi y cómo funciona?
+- ¿El Dashboard le permite ubicar fácilmente las opciones principales (crear envío, tracking, reportes)?
+- ¿Qué tan simple le resulta crear un envío con el formulario actual?
+- ¿Los campos del formulario están ordenados de forma lógica para su operación diaria?
+- ¿Le resulta clara la línea de tiempo (tracking) y sus estados?
+- ¿Los reportes mostrados (tiempos, costos, devoluciones) le serían útiles para sus decisiones semanales?
+- ¿El prototipo refleja fielmente el flujo real que sigue su negocio al gestionar envíos?
+
+Preguntas complementarias:
+
+- ¿Utilizaría la carga masiva por CSV o plantillas para acelerar su operación?
+- ¿Qué tan importante es la descarga de etiquetas A6 listas para impresión?
+- ¿Qué tipo de alertas le gustaría recibir dentro del prototipo (retrasos, incidencias, entregas)?
+- ¿Qué acciones deberían ser más rápidas o accesibles para su equipo operativo?
+
+
+
+#### Segmento 2: Emprendedor pequeño (e-commerce / redes sociales)
+
+Preguntas generales (orientadas al prototipo):
+
+- Al ver la Landing Page, ¿entiende de inmediato qué hace la plataforma?
+- ¿El flujo para crear un envío le pareció intuitivo y rápido?
+- ¿Los estados del tracking son fáciles de interpretar para usted y su cliente?
+- ¿Qué tanta utilidad le aportan los reportes de tiempos, costos y devoluciones?
+- ¿El sistema le permitiría reemplazar su método actual (Excel, chats, portales de courier)?
+
+Preguntas complementarias:
+
+- ¿Le sería útil integrar su tienda online o la opción de cargar envíos por CSV?
+- ¿Qué beneficios lo motivarían a pagar un plan Pro (más envíos, reportes avanzados, más tracking)?
+- ¿Preferiría notificaciones automáticas al cliente por WhatsApp, SMS o email?
+- ¿Qué cambios harían más rápida la gestión de sus envíos desde el prototipo?
+
+---
+
+### 5.3.2. Diseño de Entrevistas.
+
+| Datos del entrevistado      | Enlace a la entrevista | Captura de la Entrevista |
+|-----------------------------|------------------------|--------------------------|
+| **Victoria Contreras**      | [Entrevista (6:01 min)](https://drive.google.com/file/d/1pEnF1tErin8WNtp9TQXYhWjhXKhv4htz/view?usp=sharing) | <img width="365" height="180" alt="Image" src="https://github.com/user-attachments/assets/45d51f86-a3ce-426a-adb3-e2a28bf1c280" /> |
+| **Julieta Cardenas**        | [Entrevista (9:58 min)](https://drive.google.com/file/d/1rU8LP8URPuuFUzLqcePKpqpe9kxIw9QP/view?usp=sharing) | <img width="365" height="180" alt="Image" src="https://github.com/user-attachments/assets/51b0b512-7a7f-4c1b-91d7-cc2d96458194" /> |
+
+---
+
+### 5.3.3. Evaluaciones según heurísticas
+
+En esta sección se presentan los principales hallazgos derivados de la revisión heurística realizada sobre el prototipo de Sendifi, considerando los criterios de Usabilidad, Inclusive Design e Information Architecture. La evaluación se hizo de manera independiente para cada segmento entrevistado, contrastando sus flujos críticos dentro de la plataforma.
+
+Los hallazgos identificados se describen a continuación:
+
+#### a) Evaluación Heurística – Segmento: Emprendedora (Victoria Contreras)
+
+Fuente: [Enlace al documento](https://drive.google.com/file/d/1Fj_c6Kr8LociCjBejXPwmIusyjKLBvC6/view?usp=sharing)
+
+Durante la revisión del flujo de registro y visualización de pedidos, se identificó el siguiente problema de usabilidad:
+
+Problema 1: Botón “Asignar repartidor” sin funcionalidad aparente
+
+Severidad: 1 (problema superficial)
+
+Heurística violada: Information Architecture – Is it usable?
+
+Descripción:
+El prototipo presenta un botón etiquetado como “Asignar repartidor”, el cual no ejecuta ninguna acción visible ni provee retroalimentación al usuario al intentar interactuar con él. Esto genera confusión, ya que la acción es clave dentro del proceso logístico. La falta de respuesta también sugiere que podría tratarse de un botón duplicado o no implementado.
+
+Recomendaciones:
+
+- Retirar el botón si no forma parte del flujo actual o si se encuentra duplicado.
+
+- Implementar la acción correspondiente en caso de que sí forme parte del proceso esperado (por ejemplo, abrir un modal o formulario de asignación).
+
+- Si la función aún no existe, incluir un estado deshabilitado con un mensaje aclaratorio.
+
+- Asegurar que el botón esté ubicado dentro del contexto adecuado para evitar confusiones.
+
+Este fue el único hallazgo en este segmento, y no se detectaron problemas graves que afecten el flujo principal.
+
+
+#### b) Evaluación Heurística – Segmento: Negocio con Personal Operativo (Julieta Cárdenas)
+
+Fuente: [Enlace al documento](https://drive.google.com/file/d/1aGE8zrMhUDEV_gzl2Si9fOEHOadkX-nv/view?usp=sharing)
+
+La evaluación del flujo de registro de repartidores y visualización de envíos asignados no reportó incidencias.
+
+Esto sugiere que el prototipo, en este flujo particular, cumple de manera adecuada con los principios heurísticos evaluados. El usuario pudo comprender y navegar correctamente las funciones críticas sin encontrar obstáculos de usabilidad ni fallas en la estructura de información.
+
+La evaluación heurística muestra que el prototipo de Sendifi presenta una estructura sólida y clara en la mayoría de sus flujos. Solo se identificó un problema menor relacionado con un botón sin funcionalidad, específicamente en el segmento de emprendedores que gestionan sus propios envíos.
+
+El comportamiento general del prototipo indica:
+
+- Buena comprensión del flujo principal por parte de usuarios operativos.
+
+- Ausencia de problemas severos que impidan completar tareas.
+
+- Necesidad de ajustar elementos aislados para mejorar la claridad y evitar ambigüedades.
