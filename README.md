@@ -638,6 +638,27 @@ Tabla Sprint Backlog 4
 
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+<p>
+  <strong>Enlace al Swagger del backend desplegado:</strong><br>
+  <a href="https://backsendify-5.onrender.com/swagger/index.html" target="_blank">
+    https://backsendify-5.onrender.com/swagger/index.html
+  </a>
+</p>
+
+<p>
+  <strong>Enlace del frontend desplegado (Sendify – vista cliente):</strong><br>
+  <a href="https://frontend-azure-beta-84.vercel.app" target="_blank">
+    https://frontend-azure-beta-84.vercel.app
+  </a>
+</p>
+
+<p>
+  <strong>Credenciales de prueba:</strong><br>
+  Usuario: <code>user@example.com</code><br>
+  Contraseña: <code>string</code>
+</p>
+
+---
 
 <p>
   En esta sección se muestra la evidencia del despliegue de la base de datos y del entorno técnico del proyecto.
