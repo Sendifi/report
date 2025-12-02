@@ -551,22 +551,113 @@ Tabla Sprint Backlog 4
 
 #### 5.2.2.4.Development Evidence for Sprint Review.
 
+<p>
+  En esta sección se presenta la evidencia del desarrollo del backend, mostrando la estructura del proyecto y el código implementado durante el Sprint.
+</p>
+<figure>
+  <img width="3024" height="1964" alt="Image" src="https://github.com/user-attachments/assets/34d71ee1-42d4-4776-b1ac-0533dc3205b5" />
+  <figcaption>
+   Figura 1. Backend ya en deploy en render por medio de una imagen de docker.
+  </figcaption>
+</figure>
+
+<figure>
+  <img width="1512" height="982" alt="Backend Structure" src="https://github.com/user-attachments/assets/18373349-ff4e-4a5a-973f-c61d59ade160" />
+  <figcaption>
+   Figura 2. Código fuente del backend delegado desarrollado durante el Sprint.
+  </figcaption>
+</figure>
+
+<figure>
+  <img width="1204" height="1483" alt="Backend Code" src="https://github.com/user-attachments/assets/eae04fb3-04d6-42cd-abdb-198dac82e37e" />
+  <figcaption>
+    Figura 3. Estructura del backend de Sendify con sus paquetes, controladores, servicios y repositorios. 
+  </figcaption>
+</figure>
+
+
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 
+<p>
+  A continuación se muestra la evidencia de la ejecución funcional de la aplicación Sendify durante la revisión del Sprint, incluyendo las vistas del cliente y del repartidor.
+</p>
+
+<!-- Vista cliente -->
+<figure>
+  <img width="1512" height="982" alt="Vista Cliente Sendify" src="https://github.com/user-attachments/assets/1f5e45a0-f31e-463b-9846-1c8f7ed41cd2" />
+  <figcaption>
+    Figura 3. Vista del cliente en Sendify mostrando la interfaz para la gestión de envíos.
+  </figcaption>
+</figure>
+
+<!-- Vista repartidor -->
+<figure>
+  <img width="3024" height="1964" alt="Vista Repartidor Sendify" src="https://github.com/user-attachments/assets/1fe8272f-5622-488c-b999-c7975355fddc" />
+  <figcaption>
+    Figura 4. Vista del repartidor en Sendify utilizada para validar el flujo operativo durante el Sprint Review.
+  </figcaption>
+</figure>
 
 
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
-Se contempla los servicios de Mysql, con Swagger y OpenAPI para la creación de la documentación interactiva y además de la conección con BD.
+<p>
+  En esta sección se presenta la documentación del backend mediante Swagger, que detalla los servicios REST desarrollados.
+</p>
 
+<figure>
+  <img width="1512" height="982" alt="Swagger Overview" src="https://github.com/user-attachments/assets/eaee715e-693c-4ed7-8a90-66a7007d6218" />
+  <figcaption>
+    Figura 5. Vista general de Swagger del backend delegado mostrando los endpoints disponibles.
+  </figcaption>
+</figure>
+
+<figure>
+  <img width="1512" height="982" alt="Swagger Endpoints" src="https://github.com/user-attachments/assets/7cb05484-4434-4333-b591-a325c94b7618" />
+  <figcaption>
+    Figura 6. Detalle de endpoints documentados con sus métodos HTTP, parámetros y modelos de respuesta.
+  </figcaption>
+</figure>
+
+<figure>
+  <img width="1512" height="982" alt="Swagger Models" src="https://github.com/user-attachments/assets/85a13bdc-6bfb-4f05-9db6-e5869b275a56" />
+  <figcaption>
+    Figura 7. Modelos utilizados por la API, generados automáticamente por Swagger.
+  </figcaption>
+</figure>
+
+<figure>
+  <img width="1512" height="982" alt="Swagger Try-Out" src="https://github.com/user-attachments/assets/1114e6f4-a8cb-4417-a2f6-d6bf86b580c2" />
+  <figcaption>
+    Figura 8. Ejecución de un endpoint desde Swagger para verificar el funcionamiento del servicio.
+  </figcaption>
+</figure>
 
 
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
-No se logró el despligue de la aplicación backend.  
+<p>
+  En esta sección se muestra la evidencia del despliegue de la base de datos y del entorno técnico del proyecto.
+</p>
+
+<figure>
+  <img width="1512" height="982" alt="DB Deployment 1" src="https://github.com/user-attachments/assets/ff83910d-2abc-4c20-b37c-0c9f33bf377a" />
+  <figcaption>
+    Figura 9. Base de datos de Sendify desplegada con sus tablas principales.
+  </figcaption>
+</figure>
+
+<figure>
+  <img width="1512" height="982" alt="DB Deployment 2" src="https://github.com/user-attachments/assets/2fffe4bb-ef2e-4e4f-aea0-e880c59a5afd" />
+  <figcaption>
+    Figura 10. Visualización de registros iniciales y estructura de tablas en la base de datos desplegada.
+  </figcaption>
+</figure>
+
+
 
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
