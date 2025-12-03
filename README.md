@@ -24,7 +24,7 @@
 | Payesa Torres, Harrison Hubert | U202313397 |
 | Cossar Sanchez, Eduardo Jose      | U202312109 |
 
-**Ciclo 2025-02**
+**Ciclo 2025-20**
 
 # Registro de Versiones del Informe
 
